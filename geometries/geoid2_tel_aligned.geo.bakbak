@@ -1,0 +1,85 @@
+[MIMOSA26_0]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_0_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0deg,0deg,0deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = 0um,0um,0um
+role = "reference"
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
+[MIMOSA26_1]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_1_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = -0.13751deg,-0.0913868deg,-0.416426deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = -75.931um,-35.859um,35mm
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
+[MIMOSA26_2]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_2_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = -0.204603deg,-0.215432deg,-0.131723deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = 18.458um,-181.13um,70mm
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
+[Monopix2_0]
+material_budget = 0.00075
+number_of_pixels = 512, 512
+orientation = 0deg,0deg,0deg
+orientation_mode = "xyz"
+pixel_pitch = 62um,62um
+position = 0um,0um,95mm
+role = "dut"
+spatial_resolution = 17.898um,17.898um
+time_resolution = 230us
+type = "monopix2"
+
+[MIMOSA26_3]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_3_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0.181169deg,3.42325deg,-0.0971736deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = 633.928um,-229.216um,125mm
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
+[MIMOSA26_4]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_4_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0.0896106deg,2.84021deg,0.174809deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = 474.862um,-97.777um,160mm
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
+[MIMOSA26_5]
+mask_file = "/home/testbeam1/data/corry_conf/maskfiles/mask_mimosa_5_DB.txt"
+material_budget = 0.00075
+number_of_pixels = 1152, 576
+orientation = 0.229355deg,2.63612deg,-0.0720208deg
+orientation_mode = "xyz"
+pixel_pitch = 18.4um,18.4um
+position = 330.709um,-37.56um,219mm
+spatial_resolution = 4um,4um
+time_resolution = 230us
+type = "mimosa26"
+
