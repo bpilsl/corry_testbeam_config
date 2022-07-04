@@ -3,7 +3,7 @@ import pandas as pd
 from argparse import ArgumentParser
 import numpy as np
 
-# usage python3 extract_corry_root.py --start 297 --end 297 --path /home/yannik/vtx/testbeam/data/monopix2/test
+# usage python3 extract_root.py --start 297 --end 297 --path /home/yannik/vtx/testbeam/data/monopix2/test
 
 
 selected_keys = {
@@ -20,10 +20,10 @@ selected_keys = {
 "AnalysisDUT/Monopix2_0/clusterSizeAssociated":'Mean',
 "AnalysisDUT/Monopix2_0/clusterWidthRowAssociated":'Mean',
 "AnalysisDUT/Monopix2_0/clusterWidthColAssociated":'Mean',
-"AnalysisEfficiency/Monopix2_0/pixelEfficiencyMap_trackPos":'Efficiency',
-"AnalysisEfficiency/Monopix2_0/chipEfficiencyMap_trackPos":'Efficiency',
+#"AnalysisEfficiency/Monopix2_0/pixelEfficiencyMap_trackPos":'Efficiency',
 "AnalysisEfficiency/Monopix2_0/distanceTrackHit2D":'RMS',
-"AnalysisEfficiency/Monopix2_0/eTotalEfficiency":'single_Efficiency',
+"AnalysisEfficiency/Monopix2_0/chipEfficiencyMap_trackPos":'Efficiency',
+#"AnalysisEfficiency/Monopix2_0/eTotalEfficiency":'single_Efficiency',
 "AnalysisEfficiency/Monopix2_0/efficiencyColumns":'Efficiency',
 "AnalysisEfficiency/Monopix2_0/efficiencyRows":'Efficiency'
 }
