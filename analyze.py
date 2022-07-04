@@ -73,7 +73,11 @@ def make_pdf(filename):
             c1.cd()
             c1.SetName(key)
             c1.SetTitle(key)
-            e.Draw()
+            
+            if  e.GetDimension() > 1:
+                e.Draw("colz")
+            else: 
+                e.Draw()
       
             ROOT.gPad.Modified()
             ROOT.gPad.Update()   
