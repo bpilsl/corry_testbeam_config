@@ -1,3 +1,4 @@
 *.swp
 *.geo
 geometries/
+__pycache__/
