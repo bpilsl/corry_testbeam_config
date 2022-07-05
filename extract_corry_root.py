@@ -25,7 +25,11 @@ selected_keys = {
 "AnalysisEfficiency/Monopix2_0/chipEfficiencyMap_trackPos":'Efficiency',
 #"AnalysisEfficiency/Monopix2_0/eTotalEfficiency":'single_Efficiency',
 "AnalysisEfficiency/Monopix2_0/efficiencyColumns":'Efficiency',
-"AnalysisEfficiency/Monopix2_0/efficiencyRows":'Efficiency'
+"AnalysisEfficiency/Monopix2_0/efficiencyRows":'Efficiency',
+#"AnalysisDUT/Monopix2_0/rmsxyvsxmym":'Mean',
+#"AnalysisDUT/Monopix2_0/pxqvsxmym":'Mean',
+#"AnalysisDUT/Monopix2_0/npxvsxmym":'Mean',
+#"AnalysisDUT/Monopix2_0/pvsxmym":'Mean',
 }
 
 def parse_args():
@@ -57,6 +61,7 @@ def get_object(path,runs):
             #print(key)
             if selected_keys[key] == 'RMS' or selected_keys[key] == 'Mean':
                 attr = getattr(plot,"Get%s" % selected_keys[key])
+                error = getattr(plot,"Get%sError" % selected_keys[key])
                 val = attr()
                 list_per_file.append(val)
                 #print(val)
@@ -72,6 +77,8 @@ def get_object(path,runs):
                     for y in range(y_start,y_stop,1):
                         global_bin = plot.GetGlobalBin(x,y)
                         val_single_pixel = plot.GetEfficiency(global_bin)
+                        error_low = plot.GetEfficiencyErrorLow(global_bin)
+                        error_high = plot.GetEfficiencyErrorHigh(global_bin)
                         if val_single_pixel>0.0001:
                             #if val_single_pixel>0.00001:
                             val_pixels.append(val_single_pixel)
@@ -82,6 +89,8 @@ def get_object(path,runs):
             elif selected_keys[key] == 'single_Efficiency':
                 global_bin = plot.GetGlobalBin(1,1)
                 val_single_pixel = plot.GetEfficiency(global_bin)
+                error_low = plot.GetEfficiencyErrorLow(global_bin)
+                error_high = plot.GetEfficiencyErrorHigh(global_bin)
                 list_per_file.append(val_single_pixel)
         df.loc[runs[i]] = list_per_file
     return df

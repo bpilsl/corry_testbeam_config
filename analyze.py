@@ -3,6 +3,7 @@ import glob
 import re
 import os
 import ROOT
+from report_to_elog_scans import elog
 
 #data_folder = '/home/testbeam1/data/data_producer_runs/desy'
 data_folder = '../data_producer_runs/desy'
@@ -90,6 +91,7 @@ def make_pdf(filename):
   
     c1.Print(pdfName+")","pdf")
     f.Close()
+    return pdfName
 
 
 
@@ -160,4 +162,7 @@ for i in range(start, stop):
 
     os.system(corry_cmd)
 
-    make_pdf(f'{output_dir}/{output_file_name}.root')
+    pdfName = make_pdf(f'{output_dir}/{output_file_name}.root')
+
+    configID = args.g
+    elog(configID, attachments=[pdfName], credFile='path/to/credFile').uploadToElog()
