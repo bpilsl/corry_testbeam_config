@@ -36,6 +36,10 @@ selected_keys = [
     "AnalysisEfficiency/Monopix2_0/eTotalEfficiency",
     "AnalysisEfficiency/Monopix2_0/efficiencyColumns",
     "AnalysisEfficiency/Monopix2_0/efficiencyRows",
+    "AnalysisDUT/Monopix2_0/rmsxyvsxmym",
+    "AnalysisDUT/Monopix2_0/pxqvsxmym",
+    "AnalysisDUT/Monopix2_0/npxvsxmym",
+    "AnalysisDUT/Monopix2_0/pvsxmym",
 ]
 
 
