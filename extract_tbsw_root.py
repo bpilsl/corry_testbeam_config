@@ -4,32 +4,15 @@ from argparse import ArgumentParser
 import numpy as np
 
 # usage python3 extract_root.py --start 297 --end 297 --path /home/yannik/vtx/testbeam/data/monopix2/test
-
+#/home/bgnet/workspace-test/root-files
 
 selected_keys = {
-"AnalysisDUT/Monopix2_0/local_residuals/residualsX":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsX1pix":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsX2pix":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsX3pix":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsY":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsY1pix":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsY2pix":'RMS',
-"AnalysisDUT/Monopix2_0/local_residuals/residualsY3pix":'RMS',
-"AnalysisDUT/Monopix2_0/clusterChargeAssociated":'Mean',
-"AnalysisDUT/Monopix2_0/seedChargeAssociated":'Mean',
-"AnalysisDUT/Monopix2_0/clusterSizeAssociated":'Mean',
-"AnalysisDUT/Monopix2_0/clusterWidthRowAssociated":'Mean',
-"AnalysisDUT/Monopix2_0/clusterWidthColAssociated":'Mean',
-#"AnalysisEfficiency/Monopix2_0/pixelEfficiencyMap_trackPos":'Efficiency',
-"AnalysisEfficiency/Monopix2_0/distanceTrackHit2D":'RMS',
-"AnalysisEfficiency/Monopix2_0/chipEfficiencyMap_trackPos":'Efficiency',
-#"AnalysisEfficiency/Monopix2_0/eTotalEfficiency":'single_Efficiency',
-"AnalysisEfficiency/Monopix2_0/efficiencyColumns":'Efficiency',
-"AnalysisEfficiency/Monopix2_0/efficiencyRows":'Efficiency',
-#"AnalysisDUT/Monopix2_0/rmsxyvsxmym":'Mean',
-#"AnalysisDUT/Monopix2_0/pxqvsxmym":'Mean',
-#"AnalysisDUT/Monopix2_0/npxvsxmym":'Mean',
-#"AnalysisDUT/Monopix2_0/pvsxmym":'Mean',
+"hres_u_all":'RMS',
+"hres_v_all":'RMS',
+"hCharge":'Mean',
+"hCCharge":'Mean',
+"hsize":'Mean',
+"h2_efficiencymap":'TH2',
 }
 
 def parse_args():
@@ -48,7 +31,7 @@ def get_object(path,runs):
     columns = [x.split('/')[-1] for x in selected_keys.keys()]
     df = pd.DataFrame(columns=columns, index=runs)
 
-    root_files = ['analysis_run{}.root'.format(x) for x in runs]
+    root_files = ['Plotter-Histos-TJ2-run{}-reco.root'.format(x) for x in runs]
 
     for i,file in enumerate(root_files):
         try:
@@ -66,8 +49,8 @@ def get_object(path,runs):
                 list_per_file.append(val)
                 #print(val)
             elif selected_keys[key] == 'Efficiency':
-                x_start = 150
-                x_stop = 300
+                x_start = 100
+                x_stop = 200
                 y_start = 300
                 y_stop = 400
                 val_pixels = []
@@ -77,6 +60,27 @@ def get_object(path,runs):
                     for y in range(y_start,y_stop,1):
                         global_bin = plot.GetGlobalBin(x,y)
                         val_single_pixel = plot.GetEfficiency(global_bin)
+                        error_low = plot.GetEfficiencyErrorLow(global_bin)
+                        error_high = plot.GetEfficiencyErrorHigh(global_bin)
+                        if val_single_pixel>0.0001:
+                            #if val_single_pixel>0.00001:
+                            val_pixels.append(val_single_pixel)
+                if(len(val_pixels)!=0):
+                    list_per_file.append(sum(val_pixels)/len(val_pixels))
+                else:
+                    list_per_file.append(0)
+            elif selected_keys[key] == 'TH2':
+                x_start = 20
+                x_stop = 70
+                y_start = 80
+                y_stop = 120
+                val_pixels = []
+                for x in range(x_start,x_stop,1):
+                    if x==225:
+                        continue
+                    for y in range(y_start,y_stop,1):
+                        #global_bin = plot.GetGlobalBin(x,y)
+                        val_single_pixel = plot.GetBinContent(x,y)
                         #error_low = plot.GetEfficiencyErrorLow(global_bin)
                         #error_high = plot.GetEfficiencyErrorHigh(global_bin)
                         if val_single_pixel>0.0001:
@@ -86,11 +90,12 @@ def get_object(path,runs):
                     list_per_file.append(sum(val_pixels)/len(val_pixels))
                 else:
                     list_per_file.append(0)
+
             elif selected_keys[key] == 'single_Efficiency':
                 global_bin = plot.GetGlobalBin(1,1)
                 val_single_pixel = plot.GetEfficiency(global_bin)
-                #error_low = plot.GetEfficiencyErrorLow(global_bin)
-                #error_high = plot.GetEfficiencyErrorHigh(global_bin)
+                error_low = plot.GetEfficiencyErrorLow(global_bin)
+                error_high = plot.GetEfficiencyErrorHigh(global_bin)
                 list_per_file.append(val_single_pixel)
         df.loc[runs[i]] = list_per_file
     return df
