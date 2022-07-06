@@ -165,4 +165,4 @@ for i in range(start, stop):
     pdfName = make_pdf(f'{output_dir}/{output_file_name}.root')
 
     configID = args.g
-    elog(configID, attachments=[pdfName], credFile='path/to/credFile').uploadToElog()
+    elog("", attachments=[pdfName], run_number=current_run, credFileElog='/home/testbeam1/Documents/elog_creds.txt').uploadToElog()

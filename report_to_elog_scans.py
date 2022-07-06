@@ -12,7 +12,7 @@ import traceback
 import requests
 import datetime
 import pytz
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import logging
 import glob
 #from read_h5 import readh5
@@ -28,7 +28,7 @@ class elog():
     Class to manage the upload of reports to the elog.
 
     Usage:
-    elog('Year', 'Month', 'Day', 'Type of Report', attachments=['path/to/file',], credFile='path/to/credFile').uploadToElog()
+    elog('Year', 'Month', 'Day', 'Type of Report', attachments=['path/to/file',], credFileElog='path/to/credFile').uploadToElog()
 
     Parameters
     ----------
@@ -67,7 +67,7 @@ class elog():
 
     def __init__(
             self,
-            configID,
+            configID='',
             output_data='',
             category='generic analysis',
             scanned_register='',
