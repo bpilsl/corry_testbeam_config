@@ -1,0 +1,3697 @@
+"Message ID";"Date";"Author";"Subject";"Type";"Category";"Start";"Stop";"Run no";"ConfigID";"Device";"Data Quality";"RegName";"RegVal";"Text"
+544;Sun  10 Jul 2022 16:22:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 16:24 CET";"2022/07/10 18:22 CET";"558";"53";"W14R12";;;;"Low row settings, 50 degree run with large collimator, more distance in telescope 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_162404_eudaq_scan.h5 
+mpx2_run558_220710162417.raw"
+543;Sun  10 Jul 2022 14:14:14 +0000;"Marike Schwickardi";"Config change";"ConfigID";;;;;"53";;;;;"Config ID:53
+Beam Energy:5MeV
+Collimator:12*18
+Telescope Config File: geoid53.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =8
+MIM26 2 =16
+TJMP2 3 =25.45
+MIM26 4 =29,4
+MIM26 5 =36,4
+FEI4 6 =-
+MIM26 7 =44.4
+
+TJ Monopix2:
+x =52.9
+y =210
+phi = -44
+type = Cz
+thickness = 300um"
+542;Sun  10 Jul 2022 14:04:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 15:44 CET";"2022/07/10 16:04 CET";"557";"52";"W14R12";;;;"Low row settings, 40 degree run with large collimator, more distance in telescope 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_154436_eudaq_scan.h5 
+mpx2_run557_220710154448.raw"
+541;Sun  10 Jul 2022 14:00:22 +0000;"Benjamin Schwenker";"Angular scan analysis W5R18";"Analysis";"generic analysis";"454";"464";;;"W5R18";;;;"
+Using runs: 
+run454 10deg
+run455 20deg
+run460 30deg 
+run461 40deg
+run464 50deg
+
+the rotation is around the vertical direction (rotation table photo). long cluster along chip columns or local u axis."
+540;Sun  10 Jul 2022 13:45:25 +0000;"Marike Schwickardi";"Config change";"ConfigID";;"10/07/2022 15:47";;"557";"52";"W14R12";;;;"Config ID:52
+Beam Energy:5MeV
+Collimator:12*18
+Telescope Config File: geoid52.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =8
+MIM26 2 =16
+TJMP2 3 =22.15
+MIM26 4 =27.3
+MIM26 5 =35.3
+FEI4 6 =-
+MIM26 7 =43.3
+
+TJ Monopix2:
+x =52.9
+y =210
+phi = -44
+type = Cz
+thickness = 300um"
+538;Sun  10 Jul 2022 13:31:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 15:11 CET";"2022/07/10 15:31 CET";"556";"51";"W14R12";;;;"Low row settings, 40 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_151137_eudaq_scan.h5 
+mpx2_run556_220710151150.raw"
+537;Sun  10 Jul 2022 13:08:52 +0000;"Marike Schwickardi";"Config change angular 40°";"ConfigID";;"10/07/2022 15:11";;;"51";"W14R12";;;;"Config ID: 51
+Beam Energy: 5MeV
+Collimator: 12*18
+Telescope Config File:geoid51.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =5
+MIM26 2 =10
+TJMP2 3 = 16.15
+MIM26 4 =21.3
+MIM26 5 =26.3
+FEI4 6 =-
+MIM26 7 =31.3
+
+TJ Monopix2:
+x =52.9
+y =210
+phi = -44
+type = Cz
+thickness = 300um"
+536;Sun  10 Jul 2022 13:02:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 14:40 CET";"2022/07/10 15:02 CET";"555";"50";"W14R12";;;;"Low row settings, 30 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_144011_eudaq_scan.h5 
+mpx2_run555_220710144022.raw"
+535;Sun  10 Jul 2022 12:39:07 +0000;"Marike Schwickardi";"Config change angular 30°";"ConfigID";;;;;"50";;;;;"Config ID: 50
+Beam Energy:5MeV
+Collimator:12*18
+Telescope Config File:geoid50.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =5cm
+MIM26 2 =10cm
+TJMP2 3 =15.2cm 
+MIM26 4 =20.3
+MIM26 5 =25.3
+FEI4 6 =-
+MIM26 7 =30.3
+
+TJ Monopix2:
+x =51.5
+y =210
+phi = -34
+type = Cz
+thickness = 300um"
+534;Sun  10 Jul 2022 12:32:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 14:12 CET";"2022/07/10 14:32 CET";"554";"49";"W14R12";;;;"Low row settings, 20 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_141215_eudaq_scan.h5 
+mpx2_run554_220710141226.raw"
+533;Sun  10 Jul 2022 12:11:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 14:10 CET";"2022/07/10 14:11 CET";"553";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_141000_eudaq_scan.h5 
+mpx2_run553_220710141011.raw"
+532;Sun  10 Jul 2022 12:08:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 14:07 CET";"2022/07/10 14:08 CET";"552";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_140722_eudaq_scan.h5 
+mpx2_run552_220710140856.raw"
+531;Sun  10 Jul 2022 12:02:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:59 CET";"2022/07/10 14:02 CET";"551";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_135928_eudaq_scan.h5 
+mpx2_run551_220710140240.raw"
+530;Sun  10 Jul 2022 11:50:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:50 CET";"2022/07/10 13:50 CET";"550";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_135024_eudaq_scan.h5 
+mpx2_run550_220710135036.raw"
+529;Sun  10 Jul 2022 11:49:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:45 CET";"2022/07/10 13:49 CET";"549";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_134541_eudaq_scan.h5 
+mpx2_run549_220710134955.raw"
+528;Sun  10 Jul 2022 11:45:38 +0000;"Benjamin Schwenker";"Angular scan W5R9";"Analysis";"generic analysis";"503";"508";;;"W5R9";;;;"Preliminary analysis of angular scan for W5R9 using runs 503, 507 and 508. "
+527;Sun  10 Jul 2022 11:44:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:43 CET";"2022/07/10 13:44 CET";"548";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_134304_eudaq_scan.h5 
+mpx2_run548_220710134434.raw"
+526;Sun  10 Jul 2022 11:40:16 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:38 CET";"2022/07/10 13:40 CET";"547";"49";"W14R12";;;;"Noiserun normal FE default settings, LR 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_133850_eudaq_scan.h5 
+mpx2_run547_220710133932.raw"
+525;Sun  10 Jul 2022 11:38:15 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:36 CET";"2022/07/10 13:38 CET";"545";"49";"W14R12";;;;"Low row settings, 20 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_133608_eudaq_scan.h5 
+mpx2_run545_220710132526.raw"
+524;Sun  10 Jul 2022 11:25:35 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/10 13:23 CET";"2022/07/10 13:25 CET";"545";"49";"W14R12";;;;"Low row settings, 20 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_132339_eudaq_scan.h5 
+mpx2_run545_220710132526.raw"
+523;Sun  10 Jul 2022 11:16:25 +0000;"Maximilian Babeluk";"Config change";"ConfigID";;;;;"49";"W14R12";;;;"Config ID:489
+Beam Energy:5MeV
+Collimator:12*18
+Telescope Config File:geoid49.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =5cm
+MIM26 2 =10cm
+TJMP2 3 =14.6cm 
+MIM26 4 =18.8
+MIM26 5 =23.8
+FEI4 6 =-
+MIM26 7 =28.8
+
+TJ Monopix2:
+x =49.9
+y =210
+phi = -24
+type = Cz
+thickness = 300um"
+522;Sun  10 Jul 2022 10:54:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 12:33 CET";"2022/07/10 12:54 CET";"544";"48";"W14R12";;;;"Low row settings, 10 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_123358_eudaq_scan.h5 
+mpx2_run544_220710123411.raw"
+521;Sun  10 Jul 2022 10:31:38 +0000;"Maximilian Babeluk";"Config change";"ConfigID";;"10/07/2022 12:31";;;"48";"W14R12";;;;"Config ID: 48
+Beam Energy: 5MeV
+Collimator: 12*18
+Telescope Config File:geoid48.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 = 0
+MIM26 1 = 3.5
+MIM26 2 = 7
+TJMP2 3 =10.65
+MIM26 4 =14.5
+MIM26 5 =17.9
+FEI4 6 =-
+MIM26 7 =21.3
+
+TJ Monopix2:
+x =48.2
+y =210
+phi = -14
+type = Cz
+thickness = 300um"
+520;Sun  10 Jul 2022 10:26:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 12:06 CET";"2022/07/10 12:26 CET";"543";"47";"W14R12";;;;"Low row settings, 0 degree run with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_120606_eudaq_scan.h5 
+mpx2_run543_220710120627.raw"
+519;Sun  10 Jul 2022 10:04:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 11:49 CET";"2022/07/10 12:04 CET";"542";"47";"W14R12";;;;"Low row settings, statistic with large collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_114919_eudaq_scan.h5 
+mpx2_run542_220710114933.raw"
+518;Sun  10 Jul 2022 09:47:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 11:14 CET";"2022/07/10 11:47 CET";"541";"47";"W14R12";;"PSUB/PWELL";"1.85";"Low row settings, PSUB/PWELL scan for 1.85V. worked most of the time but for some periods not. Maybe voltage fluctuations in the hameg?
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_111418_eudaq_scan.h5 
+mpx2_run541_220710111430.raw"
+517;Sun  10 Jul 2022 09:13:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 11:12 CET";"2022/07/10 11:13 CET";"540";"47";"W14R12";"bad";"PSUB/PWELL";"1.75";"Low row settings, PSUB/PWELL scan for 1.75V 
+Worked for few seconds then stoped.
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_111233_eudaq_scan.h5 
+mpx2_run540_220710111245.raw"
+516;Sun  10 Jul 2022 09:12:16 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 11:10 CET";"2022/07/10 11:12 CET";"539";"47";"W14R12";;"PSUB/PWELL";"1.5";"Low row settings, PSUB/PWELL scan for 1.5V 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_111059_eudaq_scan.h5 
+mpx2_run539_220710111111.raw"
+515;Sun  10 Jul 2022 09:09:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 11:03 CET";"2022/07/10 11:09 CET";"538";"47";"W14R12";;"PSUB/PWELL";"3";"Low row settings, PSUB/PWELL scan for 3V for a few minuets to check if chip still responds. It does.
+
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_110327_eudaq_scan.h5 
+mpx2_run538_220710110349.raw"
+514;Sun  10 Jul 2022 09:00:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 10:38 CET";"2022/07/10 11:00 CET";"537";"47";"W14R12";;"PSUB/PWELL";"1V";"Low row settings, PSUB/PWELL scan for 1V. No hits.
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_103855_eudaq_scan.h5 
+mpx2_run537_220710103909.raw"
+513;Sun  10 Jul 2022 08:52:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/10 10:52 CET";;"493";;;;;
+512;Sun  10 Jul 2022 08:50:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/10 10:50 CET";;"492";;;;;
+511;Sun  10 Jul 2022 08:48:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/10 10:48 CET";;"491";;;;;
+510;Sun  10 Jul 2022 08:38:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/10 10:17 CET";"2022/07/10 10:38 CET";"536";"47";"W14R12";;"PSUB/PWELL";"0.75";"Low row settings, PSUB/PWELL scan for 0.75V 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220710_101706_eudaq_scan.h5 
+mpx2_run536_220710101719.raw"
+509;Sun  10 Jul 2022 08:22:15 +0000;"Yannik Buch";"HV scan analysis for W5R18";"Analysis";;;;;;"W5R18";;;;"ROI: 448 496 0 512. Otherwise the efficiency is not calculated right."
+508;Sun  10 Jul 2022 08:12:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/10 10:10 CET";"2022/07/10 10:12 CET";"535";"47";"W14R12";;;;"HV Long LR run 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220710_101003_eudaq_scan.h5 
+mpx2_run535_220710101021.raw"
+507;Sun  10 Jul 2022 08:06:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 22:19 CET";"2022/07/10 10:06 CET";"534";"47";"W14R12";;;;"HV Long LR run 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220709_221915_eudaq_scan.h5 
+mpx2_run534_220709221927.raw"
+506;Sat  09 Jul 2022 20:30:59 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:30 CET";;"518";;;;;
+505;Sat  09 Jul 2022 20:29:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:29 CET";;"517";;;;;
+504;Sat  09 Jul 2022 20:27:28 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:27 CET";;"516";;;;;
+503;Sat  09 Jul 2022 20:26:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:26 CET";;"515";;;;;
+502;Sat  09 Jul 2022 20:24:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:24 CET";;"514";;;;;
+501;Sat  09 Jul 2022 20:23:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 22:23 CET";;"513";;;;;
+500;Sat  09 Jul 2022 20:18:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 22:13 CET";"2022/07/09 22:18 CET";"533";"47";"W14R12";;;;"Low row settings, Alignment run: again with higher energy for lower flux 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_221358_eudaq_scan.h5 
+mpx2_run533_220709221410.raw"
+499;Sat  09 Jul 2022 20:13:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 22:10 CET";"2022/07/09 22:13 CET";"532";"47";"W14R12";;;;"Low row settings, Alignment run 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_221023_eudaq_scan.h5 
+mpx2_run532_220709221035.raw"
+498;Sat  09 Jul 2022 20:07:10 +0000;"Maximilian Babeluk";"Config change: Low row";"ConfigID";;;;"531";"47";;;;;"Config ID: 47
+Beam Energy:4MeV
+Collimator: 12*18
+Telescope Config File:geoid47.geo
+
+Low row settings
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+497;Sat  09 Jul 2022 20:01:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 22:00 CET";"2022/07/09 22:01 CET";"530";"46";"W14R12";;;;"HV Noise run again, new noisy pixels occured 
+Of course the noisy pixels disappeared in this run :|
+
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220709_220032_eudaq_scan.h5 
+mpx2_run530_220709220043.raw"
+496;Sat  09 Jul 2022 19:59:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 17:07 CET";"2022/07/09 21:59 CET";"529";"46";"W14R12";;;;"HV High statistics, large collimator. 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220709_170702_eudaq_scan.h5 
+mpx2_run529_220709170714.raw"
+495;Sat  09 Jul 2022 14:57:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 16:50 CET";"2022/07/09 16:57 CET";"526";"46";"W14R12";;;;"Short run to didentify noisy pixels - generous mask created from this run
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220709_165056_eudaq_scan.h5 
+mpx2_run526_220709165108.raw"
+494;Sat  09 Jul 2022 14:46:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:45 CET";"2022/07/09 16:46 CET";"525";"46";"W14R12";;;;"Goe DUT, default settings, short HR/LC run for masking, a bit longer this time 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_134515_eudaq_scan.h5 
+mpx2_run525_220709134526.raw"
+493;Sat  09 Jul 2022 14:10:29 +0000;"Yannik Buch";"Psub Pwell scan analysis for W5R9 ";"Analysis";"VoltageScan";;;;;"W5R9";;;;"Psub Pwell analysis of W5R9. "
+492;Sat  09 Jul 2022 11:42:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:39 CET";"2022/07/09 13:42 CET";"524";"46";"W14R12";;;;"Goe DUT, default settings, short HR/LC run for masking, a bit longer this time 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_133936_eudaq_scan.h5 
+mpx2_run524_220709133948.raw"
+491;Sat  09 Jul 2022 11:32:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:31 CET";"2022/07/09 13:32 CET";"523";"46";"W14R12";;;;"Goe DUT, short HR/LC run for testing 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_133149_eudaq_scan.h5 
+mpx2_run523_220709133200.raw"
+490;Sat  09 Jul 2022 11:26:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:25 CET";"2022/07/09 13:26 CET";"522";"46";"W14R12";"bad";;;"Goe DUT, Patrick settings, short HR/LC run for pixel masking 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_132510_eudaq_scan.h5 
+mpx2_run522_220709132521.raw"
+489;Sat  09 Jul 2022 11:24:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:22 CET";"2022/07/09 13:24 CET";"521";"46";"W14R12";;;;"Goe DUT, default settings, short HR/LC run for testing 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_132254_eudaq_scan.h5 
+mpx2_run521_220709132306.raw"
+488;Sat  09 Jul 2022 11:22:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 13:21 CET";"2022/07/09 13:22 CET";"520";"46";"W14R12";;;;"Goe DUT, Patrick settings, short HR/LC run for pixel masking 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_132114_eudaq_scan.h5 
+mpx2_run520_220709132126.raw"
+487;Sat  09 Jul 2022 11:17:39 +0000;"Maximilian Babeluk";"Config change: switch to dut W14R12";"ConfigID";;"09/07/2022 13:17";;;"46";;;;;"Config ID: 46
+Beam Energy:4MeV
+Collimator: 12*18
+Telescope Config File:geoid46.geo
+
+new DUT: W14R12
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = epi
+thickness = 300um"
+486;Sat  09 Jul 2022 11:08:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 12:13 CET";"2022/07/09 13:08 CET";"519";"45";"W5R9";;;;"Patrick settings, long run, HR, big collimator 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_121338_eudaq_scan.h5 
+mpx2_run519_220709121350.raw"
+485;Sat  09 Jul 2022 10:06:44 +0000;"Maximilian Babeluk";"Config change";"ConfigID";;"09/07/ 12:06";;"519";"45";"W5R9";;;;"Config ID: 45
+Beam Energy:4MeV
+Collimator: 12*18
+Telescope Config File:geoid45.geo
+
+Same alignment as 43 (tel and dut)
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10.65
+MIM26 4 =12.3
+MIM26 5 =15.7
+FEI4 6 = -
+MIM26 7 =19.1
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = epi
+thickness = 300um"
+484;Sat  09 Jul 2022 10:05:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 12:04 CET";"2022/07/09 12:05 CET";"518";"44";"W5R9";;"PSUB/PWELL";"0.1";"Manual VoltageScan: 0.1V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_120435_eudaq_scan.h5 
+mpx2_run518_220709120448.raw"
+483;Sat  09 Jul 2022 10:04:10 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 11:53 CET";"2022/07/09 12:04 CET";"517";"44";"W5R9";;"PSUB/PWELL";"0.5";"Manual VoltageScan: 0.5V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_115348_eudaq_scan.h5 
+mpx2_run517_220709115400.raw"
+482;Sat  09 Jul 2022 09:53:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 11:42 CET";"2022/07/09 11:53 CET";"516";"44";"W5R9";;"PSUB/PWELL";"0.625";"Manual VoltageScan: 0.625V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_114214_eudaq_scan.h5 
+mpx2_run516_220709114225.raw"
+481;Sat  09 Jul 2022 09:41:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 11:31 CET";"2022/07/09 11:41 CET";"515";"44";"W5R9";;"PSUB/PWELL";"0.75";"Manual VoltageScan: 0.75V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_113145_eudaq_scan.h5 
+mpx2_run515_220709113156.raw"
+480;Sat  09 Jul 2022 09:39:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/09 11:39 CET";;"509";;;;;
+479;Sat  09 Jul 2022 09:31:07 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 11:20 CET";"2022/07/09 11:31 CET";"514";"44";"W5R9";;"PSUB/PWELL";"5";"Manual VoltageScan: 5V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_112038_eudaq_scan.h5 
+mpx2_run514_220709112050.raw"
+478;Sat  09 Jul 2022 09:20:07 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/09 11:08 CET";"2022/07/09 11:20 CET";"513";"44";"W5R9";;"PSUB/PWELL";"1";"Manual VoltageScan: 1V 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_110859_eudaq_scan.h5 
+mpx2_run513_220709110911.raw"
+477;Sat  09 Jul 2022 09:07:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 09:59 CET";"2022/07/09 11:07 CET";"512";"44";"W5R9";;;;"Default settings, HR, Small collimator, statistics run 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_095941_eudaq_scan.h5 
+mpx2_run512_220709100019.raw"
+476;Sat  09 Jul 2022 08:00:20 +0000;"Maximilian Babeluk";"Config change: small collimator";"ConfigID";;;;"512";"44";;;;;"Config ID: 44
+Beam Energy:4MeV
+Collimator: 5*5
+Telescope Config File:geoid44.geo
+
+Same alignment as 43 (tel and dut)
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10.65
+MIM26 4 =12.3
+MIM26 5 =15.7
+FEI4 6 = -
+MIM26 7 =19.1
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = epi
+thickness = 300um"
+475;Sat  09 Jul 2022 07:51:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 08:52 CET";"2022/07/09 09:51 CET";"511";"43";"W5R9";;;;"HP long statistics run for default settings at large collimator 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_085220_eudaq_scan.h5 
+mpx2_run511_220709085233.raw"
+474;Sat  09 Jul 2022 06:33:19 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 01:17 CET";"2022/07/09 08:33 CET";"510";"43";"W5R9";;;;"HP long statistics run for default settings at large collimator 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_011715_eudaq_scan.h5 
+mpx2_run510_220709011727.raw"
+473;Fri  08 Jul 2022 23:16:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/09 01:14 CET";"2022/07/09 01:16 CET";"509";"43";"W5R9";;;;"HP long statistics run for default settings at large collimator 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_011407_eudaq_scan.h5 
+mpx2_run509_220709011434.raw"
+472;Fri  08 Jul 2022 23:15:54 +0000;"Marike Schwickardi";"Config change";"ConfigID";;"09/07/2022 1:15";;"509";"43";"W5R9";"unknown";;;"LOCKED SHEET WITH SETTINGS IN BEAM HALL. HAVE TO FILL TOMORROW!!!
+
+Config ID: 43
+Beam Energy:4MeV
+Collimator: 5x5
+Telescope Config File:geoid43.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10.65
+MIM26 4 =12.3
+MIM26 5 =15.7
+FEI4 6 = -
+MIM26 7 =19.1
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = epi
+thickness = 300um"
+471;Fri  08 Jul 2022 23:02:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/09 00:42 CET";"2022/07/09 01:02 CET";"508";"42";"W5R9";;;;"angular scan for 30Â°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_004202_eudaq_scan.h5 
+mpx2_run508_220709004303.raw"
+470;Fri  08 Jul 2022 22:42:56 +0000;"Marike Schwickardi";"Config change angular 30°";"ConfigID";;"09/07/2022 0:412";;;"42";;;;;"Config ID: 42
+Beam Energy:5MeV
+Collimator: 5*5
+Telescope Config File: geoid42.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10.95cm
+MIM26 4 =16.2cm
+MIM26 5 =19,6cm
+FEI4 6 = -
+MIM26 7 =22cm
+
+TJ Monopix2:
+x =52.5
+y =202
+phi = -34.0006
+type = epi
+thickness = 300um"
+469;Fri  08 Jul 2022 22:33:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/09 00:12 CET";"2022/07/09 00:33 CET";"507";"41";"W5R9";;;;"angular scan for 50Â°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220709_001226_eudaq_scan.h5 
+mpx2_run507_220709001237.raw"
+468;Fri  08 Jul 2022 22:11:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/09 00:07 CET";"2022/07/09 00:11 CET";"506";"41";"W5R9";"unknown";;;"Trigger numbers were not matching, so stopped and restarted another run
+angular scan for 50Â°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Front ends: Normal FE, Normal FE Casc 
+20220709_000759_eudaq_scan.h5 
+mpx2_run506_220709000816.raw"
+467;Fri  08 Jul 2022 22:01:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/08 23:39 CET";"2022/07/09 00:01 CET";"505";"41";"W5R9";"bad";;;"NO TELESCOPE DATA !!!!!!!
+
+angular scan for 50Â°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_233904_eudaq_scan.h5 
+mpx2_run505_220708234005.raw"
+466;Fri  08 Jul 2022 21:46:11 +0000;"Marike Schwickardi";"Config change angular 50°";"ConfigID";;"08/07/2022 23:46";;"505";"41";"W5R9";;;;"Config ID:41
+Beam Energy:5MeV
+Collimator:5*5
+Telescope Config File:geoid41.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =11,43cm
+MIM26 4 =20.4cm
+MIM26 5 =23.8m
+FEI4 6 = -
+MIM26 7 =27.2cm
+
+TJ Monopix2:
+x =53.5
+y =202
+phi = -54.0006
+type = epi
+thickness = 300um"
+465;Fri  08 Jul 2022 21:26:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/08 22:58 CET";"2022/07/08 23:26 CET";"504";"40";"W5R9";"bad";;;"NOT TELESCOPE DATA !!!!!
+
+angular scan for 30°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_225839_eudaq_scan.h5 
+mpx2_run504_220708230023.raw"
+464;Fri  08 Jul 2022 20:59:43 +0000;"Marike Schwickardi";"Config change angular 30°";"ConfigID";;"08/07/2022 22:59";;"504";"40";"W5R9";;;;"Config ID: 40
+Beam Energy:5MeV
+Collimator: 5*5
+Telescope Config File: geoid40.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =11,75cm
+MIM26 4 =16,8cm
+MIM26 5 =20,2m
+FEI4 6 = -
+MIM26 7 =23,6cm
+
+TJ Monopix2:
+x =51.5
+y =202
+phi = -34.0006
+type = epi
+thickness = 300um"
+463;Fri  08 Jul 2022 20:43:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/08 22:22 CET";"2022/07/08 22:43 CET";"503";"39";"W5R9";;;;"angular scan for 15°, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_222245_eudaq_scan.h5 
+mpx2_run503_220708222257.raw"
+462;Fri  08 Jul 2022 20:11:16 +0000;"Marike Schwickardi";"Config change angular 15°";"ConfigID";;"08/07/2022 22:11";;;"39";;;;;"Config ID:39
+Beam Energy:5MeV
+Collimator:5*5
+Telescope Config File:geoid39.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =11,0cm
+MIM26 4 =14,5cm
+MIM26 5 =17,8m
+FEI4 6 = -
+MIM26 7 =21,2cm
+
+TJ Monopix2:
+x =49.5
+y =202
+phi = -19.0006
+type = epi
+thickness = 300um"
+461;Fri  08 Jul 2022 19:55:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 21:45 CET";"2022/07/08 21:55 CET";"501";"38";"W5R9";"bad";;;"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_214546_eudaq_scan.h5 
+mpx2_run501_220708214558.raw"
+460;Fri  08 Jul 2022 19:45:24 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 21:35 CET";"2022/07/08 21:45 CET";"500";"38";"W5R9";"bad";"PSUB/PWELL";"0.1";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_213519_eudaq_scan.h5 
+mpx2_run500_220708213530.raw"
+459;Fri  08 Jul 2022 19:34:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 21:24 CET";"2022/07/08 21:34 CET";"499";"38";"W5R9";"bad";"PSUB/PWELL";"0.25";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_212431_eudaq_scan.h5 
+mpx2_run499_220708212443.raw"
+458;Fri  08 Jul 2022 19:23:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 21:13 CET";"2022/07/08 21:23 CET";"498";"38";"W5R9";"bad";"PSUB/PWELL";"0.5";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_211346_eudaq_scan.h5 
+mpx2_run498_220708211357.raw"
+457;Fri  08 Jul 2022 19:10:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 21:00 CET";"2022/07/08 21:10 CET";"497";"38";"W5R9";"bad";"PSUB/PWELL";"0.625";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_210008_eudaq_scan.h5 
+mpx2_run497_220708210020.raw"
+456;Fri  08 Jul 2022 18:59:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 20:49 CET";"2022/07/08 20:59 CET";"496";"38";"W5R9";"bad";"PSUB/PWELL";"0.75";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_204936_eudaq_scan.h5 
+mpx2_run496_220708204948.raw"
+455;Fri  08 Jul 2022 18:49:05 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 20:38 CET";"2022/07/08 20:49 CET";"495";"38";"W5R9";"bad";"PSUB/PWELL";"1";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_203854_eudaq_scan.h5 
+mpx2_run495_220708203905.raw"
+454;Fri  08 Jul 2022 18:38:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 20:28 CET";"2022/07/08 20:38 CET";"494";"38";"W5R9";"bad";"PSUB/PWELL";"5";"NO TELESCOPE DATA!!!!
+
+small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_202807_eudaq_scan.h5 
+mpx2_run494_220708202818.raw"
+453;Fri  08 Jul 2022 16:48:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 18:38 CET";"2022/07/08 18:48 CET";"493";"38";"W5R9";;"PSUB/PWELL";"4";"small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_183810_eudaq_scan.h5 
+mpx2_run493_220708183822.raw"
+452;Fri  08 Jul 2022 16:37:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 18:27 CET";"2022/07/08 18:37 CET";"492";"38";"W5R9";;"PSUB/PWELL";"3";"small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_182732_eudaq_scan.h5 
+mpx2_run492_220708182744.raw"
+451;Fri  08 Jul 2022 16:27:11 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 18:16 CET";"2022/07/08 18:27 CET";"491";"38";"W5R9";;"PSUB/PWELL";"2";"small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_181654_eudaq_scan.h5 
+mpx2_run491_220708181706.raw"
+450;Fri  08 Jul 2022 16:16:07 +0000;"Yannik Buch";"Rotation Scan of W5R18";"Analysis";;;;;;"W5R18";;;;"Analysis of rotation scan using angles 0,10,20,30,40,50. The plot shows the cluster size in column (u) and row projection (v) as well as the cluster size."
+449;Fri  08 Jul 2022 16:14:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 17:07 CET";"2022/07/08 18:14 CET";"490";"38";"W5R9";;;;"small collimator, HR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_170721_eudaq_scan.h5 
+mpx2_run490_220708170733.raw"
+448;Fri  08 Jul 2022 15:30:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 17:30 CET";;"484";;;;;
+447;Fri  08 Jul 2022 15:00:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/08 16:55 CET";"2022/07/08 17:00 CET";"489";"38";"W5R9";;;;"Noiserun normal FE improved settings, LR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_165530_eudaq_scan.h5 
+mpx2_run489_220708165542.raw"
+446;Fri  08 Jul 2022 14:54:59 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/08 16:49 CET";"2022/07/08 16:54 CET";"488";"38";"W5R9";;;;"Noiserun normal FE default settings
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_164930_eudaq_scan.h5 
+mpx2_run488_220708164942.raw"
+445;Fri  08 Jul 2022 14:44:47 +0000;"Marike Schwickardi";"Config change";"ConfigID";;;;;"38";"W5R9";;;;"Config ID: 38
+Beam Energy:4MeV
+Collimator: 5x5
+Telescope Config File:geoid38.geo
+
+use same alignment in telescope as  geoid38.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =12cm
+MIM26 5 =15,4cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = epi
+thickness = 300um"
+444;Fri  08 Jul 2022 14:35:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 15:08 CET";"2022/07/08 16:35 CET";"487";"37";"W5R9";;;;"small collimator, LR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_150831_eudaq_scan.h5 
+mpx2_run487_220708150843.raw"
+443;Fri  08 Jul 2022 13:01:53 +0000;"Marike Schwickardi";"Config change: small collimator";"ConfigID";;;;"486";"37";;;;;"Config ID: 37
+Beam Energy:4MeV
+Collimator: 5x5
+Telescope Config File:geoid37.geo
+
+switch to W5R9
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =12cm
+MIM26 5 =15,4cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = epi
+thickness = 300um"
+442;Fri  08 Jul 2022 12:32:25 +0000;"Marike Schwickardi";"Manual injection scan_analog with very high charge";"General";"other";;;;;;;;;"We just tried to inject everything we can (VL:3, VH:253, deltaV: 250) or a bit less (deltaV: 200). This corresponds to ~2500 and ~2000 electrons respectively.
+
+we injected with scan_analog.py and analyzed it with the same script used to get plots shown in elog entry 441 (run 484).
+It is the same chip with the same register configuration.
+
+We see that the ToT value is not reaching more than about 10.
+
+We also tried to inject just one pixel at once, it did not change the behaviour."
+441;Fri  08 Jul 2022 12:13:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 13:29 CET";"2022/07/08 14:13 CET";"484";"36";"W5R9";;;;"New dut, big collimator, LR 
+eudaq_scan with W5R9 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_132910_eudaq_scan.h5 
+mpx2_run484_220708132938.raw"
+440;Fri  08 Jul 2022 11:31:45 +0000;"Marike Schwickardi";"Jumper settings on Bonn Module";"General";;;;;;;;;;"We just installed the Bonn module (W5R9).
+
+We noticed that the jumper for J_VPC was different than presented as ""default jumper configuration"" by C. Bespin on 14.02.2022.
+
+The next runs we will take with the default jumper config, but we will also check the other setting if there is time."
+439;Fri  08 Jul 2022 11:28:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/08 13:27 CET";"2022/07/08 13:28 CET";"482";"35";"W5R9";"bad";;;"wrong config file
+
+W5R18 LR statistic run with large collimator. 
+eudaq_scan with W5R9 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_132737_eudaq_scan.h5 
+mpx2_run482_220708115620.raw"
+438;Fri  08 Jul 2022 11:21:47 +0000;"Marike Schwickardi";"Config change";"ConfigID";;;;;"36";;;;;"Config ID: 36
+Beam Energy:4MeV
+Collimator: 12*18
+Telescope Config File:geoid36.geo
+
+switch to W5R9
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =12cm
+MIM26 5 =15,4cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = epi
+thickness = 300um"
+437;Fri  08 Jul 2022 10:14:05 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/08 11:56 CET";"2022/07/08 12:14 CET";"482";"35";"W5R18";;;;"W5R18 LR statistic run with large collimator. 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_115604_eudaq_scan.h5 
+mpx2_run482_220708115620.raw"
+436;Fri  08 Jul 2022 09:53:29 +0000;"Marike Schwickardi";"Config change";"ConfigID";;"11:53 08/07/2022";;;"35";;;;;"Config ID: 35
+Beam Energy:4MeV
+Collimator: 12*18
+Telescope Config File:geoid35.geo
+
+telescope and DUT alignment can be  inherited from geoid34.geo
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = epi
+thickness = 300um"
+435;Fri  08 Jul 2022 09:45:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/08 11:44 CET";"2022/07/08 11:45 CET";"481";"34";"W5R18";;;;"W5R18 Dry run, debugging 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_114415_eudaq_scan.h5 
+mpx2_run481_220708114427.raw"
+434;Fri  08 Jul 2022 09:43:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 11:42 CET";"2022/07/08 11:43 CET";"479";"34";"W5R18";;;;"Debugging run: Beamspot 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_114251_eudaq_scan.h5 
+mpx2_run479_220708113515.raw"
+433;Fri  08 Jul 2022 09:41:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 11:35 CET";"2022/07/08 11:41 CET";"479";"34";"W5R18";;;;"Debugging run: Beamspot 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_113503_eudaq_scan.h5 
+mpx2_run479_220708113515.raw"
+432;Fri  08 Jul 2022 09:34:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 10:38 CET";"2022/07/08 11:34 CET";"478";"34";"W5R18";;;;"W5R18 HV LR Long run 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_103840_eudaq_scan.h5 
+mpx2_run478_220708103852.raw"
+431;Fri  08 Jul 2022 09:15:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 11:15 CET";;"477";;;;;
+430;Fri  08 Jul 2022 08:58:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:58 CET";;"468";;;;;
+429;Fri  08 Jul 2022 08:48:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:48 CET";;"476";;;;;
+428;Fri  08 Jul 2022 08:47:28 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:47 CET";;"475";;;;;
+427;Fri  08 Jul 2022 08:46:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:45 CET";;"474";;;;;
+426;Fri  08 Jul 2022 08:44:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:44 CET";;"473";;;;;
+425;Fri  08 Jul 2022 08:43:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:43 CET";;"472";;;;;
+424;Fri  08 Jul 2022 08:41:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:41 CET";;"471";;;;;
+423;Fri  08 Jul 2022 08:39:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:39 CET";;"467";;;;;
+422;Fri  08 Jul 2022 08:38:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/08 10:38 CET";;"466";;;;;
+421;Fri  08 Jul 2022 08:38:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 10:34 CET";"2022/07/08 10:38 CET";"477";"34";"W5R18";;;;"Alignment run for HV position LR 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_103427_eudaq_scan.h5 
+mpx2_run477_220708103438.raw"
+420;Fri  08 Jul 2022 08:31:20 +0000;"Marike Schwickardi";"Config change: Move to LR";"ConfigID";;;;"477";"34";;;;;"Config ID:34
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File:geoid34.geo
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = epi
+thickness = 300um"
+419;Fri  08 Jul 2022 08:27:20 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 10:07 CET";"2022/07/08 10:27 CET";"476";"33";"W5R18";;"HV";"10";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_100704_eudaq_scan.h5 
+mpx2_run476_220708100715.raw"
+418;Fri  08 Jul 2022 08:06:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 09:46 CET";"2022/07/08 10:06 CET";"475";"33";"W5R18";;"HV";"9";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_094625_eudaq_scan.h5 
+mpx2_run475_220708094637.raw"
+417;Fri  08 Jul 2022 07:46:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 09:25 CET";"2022/07/08 09:46 CET";"474";"33";"W5R18";;"HV";"8";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_092545_eudaq_scan.h5 
+mpx2_run474_220708092558.raw"
+416;Fri  08 Jul 2022 07:25:24 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 09:05 CET";"2022/07/08 09:25 CET";"473";"33";"W5R18";;"HV";"7";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_090506_eudaq_scan.h5 
+mpx2_run473_220708090519.raw"
+415;Fri  08 Jul 2022 07:04:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 08:44 CET";"2022/07/08 09:04 CET";"472";"33";"W5R18";;"HV";"6";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_084427_eudaq_scan.h5 
+mpx2_run472_220708084439.raw"
+414;Fri  08 Jul 2022 06:44:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 08:23 CET";"2022/07/08 08:44 CET";"471";"33";"W5R18";;"HV";"5";"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_082349_eudaq_scan.h5 
+mpx2_run471_220708082401.raw"
+413;Fri  08 Jul 2022 06:22:21 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 08:19 CET";"2022/07/08 08:22 CET";"470";"33";"W5R18";"bad";;;"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_081908_eudaq_scan.h5 
+mpx2_run470_220708081920.raw"
+412;Fri  08 Jul 2022 06:18:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/08 08:08 CET";"2022/07/08 08:18 CET";"469";"33";"W5R18";"bad";;;"W5R18 HV HR VOltageScan 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_080830_eudaq_scan.h5 
+mpx2_run469_220708080842.raw"
+411;Fri  08 Jul 2022 06:06:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 08:03 CET";"2022/07/08 08:06 CET";"468";"33";"W5R18";;;;"Alignment run for HV position HR 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220708_080346_eudaq_scan.h5 
+mpx2_run468_220708080357.raw"
+410;Fri  08 Jul 2022 06:02:20 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/08 00:13 CET";"2022/07/08 08:02 CET";"467";"33";"W5R18";;;;"W5R18 HV Beam run 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_001345_eudaq_scan.h5 
+mpx2_run467_220708001356.raw"
+409;Thu  07 Jul 2022 22:12:07 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/08 00:06 CET";"2022/07/08 00:12 CET";"466";"33";"W5R18";;;;"Noiserun HV FE 
+eudaq_scan with W5R18 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220708_000651_eudaq_scan.h5 
+mpx2_run466_220708000704.raw"
+408;Thu  07 Jul 2022 22:07:20 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"08/07/2022 00:07";;"466";"33";"W5R18";;;;"Config ID:33
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File:geoid33.geo
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =56.5
+y =202
+phi = -4.0006
+type = epi
+thickness = 300um"
+407;Thu  07 Jul 2022 22:04:52 +0000;"Marike Schwickardi";"repeate s-curve";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;;;"file: 20220707_234601_threshold_scan_interpreted"
+406;Thu  07 Jul 2022 21:50:22 +0000;"Marike Schwickardi";"repeate s-curve";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;"ITHR";"64";"file: 20220707_233858_threshold_scan_interpreted.h5 "
+405;Thu  07 Jul 2022 21:39:39 +0000;"Marike Schwickardi";"repeate s-curve";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;"ITHR";"74";"file: 20220707_233014_threshold_scan_interpreted.h5"
+404;Thu  07 Jul 2022 21:16:08 +0000;"Marike Schwickardi";"repeate s-curve";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;"ITHR";"84";"file: 20220707_231144_threshold_scan"
+403;Thu  07 Jul 2022 20:57:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 22:36 CET";"2022/07/07 22:57 CET";"465";"32";"W5R18";;;;"Patrick settings: rotational beam run. 50 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_223608_eudaq_scan.h5 
+mpx2_run465_220707223619.raw"
+402;Thu  07 Jul 2022 20:34:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 22:13 CET";"2022/07/07 22:34 CET";"464";"32";"W5R18";;;;"Default settings: rotaitional beam run. 50 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_221348_eudaq_scan.h5 
+mpx2_run464_220707221359.raw"
+401;Thu  07 Jul 2022 20:18:10 +0000;"Yannik Buch";"Config change angular 50 degrees";"ConfigID";;"07/07/2022 22:18";;;"32";"W5R18";;;;"Rotation offset 50degrees. TJ chip facing towards hameg in -x direction. Changed position of DUT 3mm in +x to be keep some beam spot
+
+Config ID:31
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid31.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =13,6cm
+MIM26 4 =21,2cm
+MIM26 5 =24,6cm
+FEI4 6 = -
+MIM26 7 =28,0cm
+
+TJ Monopix2:
+x =43.5
+y =210
+phi = -54.0006
+type = epi
+thickness = 300um"
+400;Thu  07 Jul 2022 20:10:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:10 CET";;"363";;;;;
+399;Thu  07 Jul 2022 20:08:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:08 CET";;"362";;;;;
+398;Thu  07 Jul 2022 20:07:20 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:07 CET";;"361";;;;;
+397;Thu  07 Jul 2022 20:05:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:05 CET";;"360";;;;;
+396;Thu  07 Jul 2022 20:04:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:04 CET";;"359";;;;;
+395;Thu  07 Jul 2022 20:02:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 22:02 CET";;"358";;;;;
+394;Thu  07 Jul 2022 19:58:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 21:37 CET";"2022/07/07 21:58 CET";"463";"31";"W5R18";;;;"Patrick settings: rotational beam run. 40 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_213732_eudaq_scan.h5 
+mpx2_run463_220707213744.raw"
+393;Thu  07 Jul 2022 19:39:08 +0000;"Yannik Buch";"eudaq errors: conversion raw --> std event";"General";;;;;"31";"W5R18";;;;"Seeing this error pop up since the rotational/angular scans. The error message is then in mpw3 online monitor.
+Monopix events are counting up though. My interpretation is that monopix events might be empty as we rotated out of the beam spot
+eudaq errors: conversion raw --> std event"
+392;Thu  07 Jul 2022 19:36:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 21:34 CET";"2022/07/07 21:36 CET";"462";"31";"W5R18";"bad";;;"Stopped after one minute after only receiving eudaq errors: conversion raw --> std event seen in bernhards online monitor
+Patrick settings: rotational beam run. 40 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_213442_eudaq_scan.h5 
+mpx2_run462_220707213453.raw"
+391;Thu  07 Jul 2022 19:32:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 21:12 CET";"2022/07/07 21:32 CET";"461";"31";"W5R18";;;;"Default settings: rotaitional beam run. 40 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_211224_eudaq_scan.h5 
+mpx2_run461_220707211236.raw"
+390;Thu  07 Jul 2022 19:23:16 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 21:23 CET";;"357";;;;;
+389;Thu  07 Jul 2022 19:20:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 21:20 CET";;"356";;;;;
+388;Thu  07 Jul 2022 19:14:22 +0000;"Yannik Buch";"Config change angular 40 degrees";"ConfigID";;"07/07/2022 21:15";;;"31";"W5R18";;;;"Rotation offset 40degrees. TJ chip facing towards hameg in -x direction
+
+Config ID:31
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid31.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =12,4cm
+MIM26 4 =19,0cm
+MIM26 5 =22,4cm
+FEI4 6 = -
+MIM26 7 =25,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -44.0006
+type = epi
+thickness = 300um"
+387;Thu  07 Jul 2022 19:01:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 20:41 CET";"2022/07/07 21:01 CET";"460";"30";"W5R18";;;;"Default settings: rotaitional beam run. 30 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_204111_eudaq_scan.h5 
+mpx2_run460_220707204123.raw"
+386;Thu  07 Jul 2022 18:40:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 20:18 CET";"2022/07/07 20:40 CET";"459";"30";"W5R18";;;;"Patrick settings: rotaitional beam run. 30 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_201831_eudaq_scan.h5 
+mpx2_run459_220707201843.raw"
+385;Thu  07 Jul 2022 17:44:24 +0000;"Marike Schwickardi";"Config change angular 30°";"ConfigID";;"07/07/2022 19:48";;;"30";"W5R18";;;;"Rotation offset 30degrees. TJ chip facing towards hameg in -x direction
+
+Config ID:30
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid30.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =11,6cm
+MIM26 4 =16,8cm
+MIM26 5 =20,2cm
+FEI4 6 = -
+MIM26 7 =23,6cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -34.0006
+type = epi
+thickness = 300um"
+384;Thu  07 Jul 2022 17:33:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 18:58 CET";"2022/07/07 19:33 CET";"456";"29";"W5R18";;;;"Patrick settings: rotaitional beam run. 20 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_185854_eudaq_scan.h5 
+mpx2_run456_220707185906.raw"
+383;Thu  07 Jul 2022 16:57:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 18:37 CET";"2022/07/07 18:57 CET";"455";"29";"W5R18";;;;"Default settings: angular scan 20 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_183747_eudaq_scan.h5 
+mpx2_run455_220707183759.raw"
+382;Thu  07 Jul 2022 16:38:04 +0000;"Qingyuan LIU";"Config change angular 20 degrees";"ConfigID";;"07/07/2022 18:39";;;"29";"W5R18";;;;"Rotation offset 20degrees. TJ chip facing towards hameg in -x direction
+
+Config ID:29
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid29.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =11,1cm
+MIM26 4 =14,4cm
+MIM26 5 =17,8cm
+FEI4 6 = -
+MIM26 7 =21,2cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -24.0006
+type = epi
+thickness = 300um
+thickness = 300um"
+381;Thu  07 Jul 2022 16:20:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 17:59 CET";"2022/07/07 18:20 CET";"454";"28";"W5R18";;;;"Default settings: angular scan 10 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_175926_eudaq_scan.h5 
+mpx2_run454_220707175938.raw"
+380;Thu  07 Jul 2022 15:57:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 17:35 CET";"2022/07/07 17:57 CET";"453";"28";"W5R18";;;;"Patrick settings: rotaitional beam run. 10 degrees 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_173548_eudaq_scan.h5 
+mpx2_run453_220707173600.raw"
+379;Thu  07 Jul 2022 15:43:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 17:43 CET";;"452";;;;;
+378;Thu  07 Jul 2022 15:41:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 17:41 CET";;"451";;;;;
+377;Thu  07 Jul 2022 15:39:14 +0000;"Benjamin Schwenker";"Psub Pwell scan analysis for W5R18";"General";"generic analysis";;;;;;;;;"
+Psub/Pwell scan analysis. Dependence of Psub/Pwell on efficiency and cluster size, cluster charge and residuals. "
+376;Thu  07 Jul 2022 15:34:32 +0000;"Marike Schwickardi";"Config change rotation 10 degrees";"ConfigID";;;;;"28";"W5R18";;;;"Config ID:28
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid28.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,2cm
+MIM26 4 =12,8cm
+MIM26 5 =16,2cm
+FEI4 6 = -
+MIM26 7 =19,6cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -14.0006
+type = epi
+thickness = 300um"
+375;Thu  07 Jul 2022 15:18:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 16:13 CET";"2022/07/07 17:18 CET";"452";"27";"W5R18";;;;"Patrick settings: statistics run HR with telescope data 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_161339_eudaq_scan.h5 
+mpx2_run452_220707161350.raw"
+374;Thu  07 Jul 2022 14:11:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 15:11 CET";"2022/07/07 16:11 CET";"451";"27";"W5R18";;;;"Default settings: High Row run 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_151145_eudaq_scan.h5 
+mpx2_run451_220707151158.raw"
+373;Thu  07 Jul 2022 13:20:05 +0000;"Qingyuan LIU";"Psub Pwell scan analysis with corry output";"General";"generic analysis";;;;;"W5R18";;;;"Data points summarized below:
+
+Efficiency vs PSUB/PWELL Voltage [V]
+  Scan	  Measured	  ErrorLow	  ErrorHigh
+   0.8	  0.9729	  0.0014	  0.0013
+   1.0	  0.9816	  0.0006	  0.0006
+   1.8	  0.9881	  0.0005	  0.0005
+   2.0	  0.9895	  0.0005	  0.0004
+   3.0	  0.9909	  0.0004	  0.0004
+   4.0	  0.9912	  0.0004	  0.0004
+  Scan	  Measured	  ErrorLow	  ErrorHigh
+   0.8	  0.9785	  0.0015	  0.0014
+   1.0	  0.9834	  0.0007	  0.0006
+   1.8	  0.9896	  0.0006	  0.0005
+   2.0	  0.9905	  0.0005	  0.0005
+   3.0	  0.9912	  0.0005	  0.0005
+   4.0	  0.9911	  0.0005	  0.0005
+Info in <TCanvas::Print>: pdf file ./summary_plots.pdf has been created using the current canvas
+Efficiency (FE) vs PSUB/PWELL Voltage [V]
+  Scan	  Measured	  ErrorLow	  ErrorHigh
+   0.8	  0.9847	  0.0013	  0.0012
+   1.0	  0.9919	  0.0005	  0.0005
+   1.8	  0.9971	  0.0003	  0.0003
+   2.0	  0.9979	  0.0003	  0.0002
+   3.0	  0.9989	  0.0002	  0.0002
+   4.0	  0.9996	  0.0001	  0.0001
+  Scan	  Measured	  ErrorLow	  ErrorHigh
+   0.8	  0.9712	  0.0026	  0.0024
+   1.0	  0.9824	  0.0010	  0.0010
+   1.8	  0.9917	  0.0008	  0.0007
+   2.0	  0.9939	  0.0007	  0.0006
+   3.0	  0.9958	  0.0005	  0.0005
+   4.0	  0.9972	  0.0005	  0.0004
+  Scan	  Measured	  ErrorLow	  ErrorHigh
+   0.8	  0.0000	  0.0000	  0.0461
+   1.0	  0.0000	  0.0000	  0.0154
+   1.8	  0.0000	  0.0000	  0.0166
+   2.0	  0.0000	  0.0000	  0.0182
+   3.0	  0.0000	  0.0000	  0.0151
+   4.0	  0.0000	  0.0000	  0.0166
+  Scan	  Measured	  ErrorLo"
+372;Thu  07 Jul 2022 13:09:03 +0000;"Marike Schwickardi";"Config change: High row settings";"ConfigID";"other";;;"451";"27";;;;;"Moved to high row
+
+Telescope alignment can be inherited from geo26
+
+Config ID: 27
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid27.geo
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006"
+371;Thu  07 Jul 2022 12:54:01 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 3V ITHR sweep";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;"ITHR";"84";"file: 20220707_145538_threshold_scan"
+370;Thu  07 Jul 2022 12:50:03 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 3V ITHR sweep";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";"bad";"ITHR";"74";"FILE: 20220707_145041_threshold_scan_interpreted.h5
+Scan crashed after s-curve "
+369;Thu  07 Jul 2022 12:48:34 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 3V ITHR sweep";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";"bad";"ITHR";"64";"20220707_144922_threshold_scan_interpreted.h5
+broken file"
+368;Thu  07 Jul 2022 12:44:38 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 3V ITHR sweep";"TJ-Scan";"VoltageScan";;;;;;;"ITHR";"54";"file: 20220707_144401_threshold_scan_interpreted.h5"
+367;Thu  07 Jul 2022 12:41:57 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 3V ITHR sweep";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;"ITHR";"44";"20220707_143852_threshold_scan.h5"
+366;Thu  07 Jul 2022 12:24:17 +0000;"Marike Schwickardi";"s-curve improved FE normal/FE CASC normal 3V";;;;;;;;;;;"file: 20220707_141419_threshold_scan_interpreted.h5
+
+#chip register config
+IBIAS = 100  # custom
+ITHR = 50
+
+
+# these are default values:
+ICASN = 0
+IDB = 100
+ITUNE = 53
+VRESET = 143
+VCASP = 93
+VCASC = 228"
+365;Thu  07 Jul 2022 12:12:37 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 0.625V";"TJ-Scan";"S-curve-Scan";;;;;"W5R18";;;;"file: 20220707_140346_threshold_scan_interpreted.h5
+
+No hits anymore for this voltage in injection scans"
+364;Thu  07 Jul 2022 12:00:13 +0000;"Marike Schwickardi";"s-curve default FE normal/FE CASC normal 0.75V";"TJ-Scan";"S-curve-Scan";"07/07/2022 13:55";;;;"W5R18";;;;"file: 20220707_135438_threshold_scan_interpreted.h5"
+363;Thu  07 Jul 2022 11:30:59 +0000;"Yannik Buch";"s-curve FE normal/FE CASC normal 3V";"TJ-Scan";"S-curve-Scan";"07/07/2022 13:31";;;"26";"W5R18";;;
+362;Thu  07 Jul 2022 11:25:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 13:21 CET";"2022/07/07 13:25 CET";"450";"26";"W5R18";;"IDB";"105";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_132111_eudaq_scan.h5 
+mpx2_run450_220707132514.raw"
+361;Thu  07 Jul 2022 11:20:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 13:15 CET";"2022/07/07 13:20 CET";"449";"26";"W5R18";;"IDB";"100";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_131535_eudaq_scan.h5 
+mpx2_run449_220707132049.raw"
+360;Thu  07 Jul 2022 11:15:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 13:09 CET";"2022/07/07 13:15 CET";"448";"26";"W5R18";;"IDB";"95";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_130956_eudaq_scan.h5 
+mpx2_run448_220707131512.raw"
+359;Thu  07 Jul 2022 11:09:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 13:04 CET";"2022/07/07 13:09 CET";"447";"26";"W5R18";;"IDB";"90";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_130416_eudaq_scan.h5 
+mpx2_run447_220707130933.raw"
+358;Thu  07 Jul 2022 10:43:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:37 CET";"2022/07/07 12:43 CET";"446";"26";"W5R18";;"VRESET";"160";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_123750_eudaq_scan.h5 
+mpx2_run446_220707124247.raw"
+357;Thu  07 Jul 2022 10:37:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:32 CET";"2022/07/07 12:37 CET";"445";"26";"W5R18";;"VRESET";"140";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_123213_eudaq_scan.h5 
+mpx2_run445_220707123508.raw"
+356;Thu  07 Jul 2022 10:31:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:26 CET";"2022/07/07 12:31 CET";"444";"26";"W5R18";;"VRESET";"120";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_122635_eudaq_scan.h5 
+mpx2_run444_220707122932.raw"
+355;Thu  07 Jul 2022 10:26:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:20 CET";"2022/07/07 12:26 CET";"443";"26";"W5R18";;"VRESET";"100";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_122057_eudaq_scan.h5 
+mpx2_run443_220707122142.raw"
+354;Thu  07 Jul 2022 10:20:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:15 CET";"2022/07/07 12:20 CET";"442";"26";"W5R18";;"VRESET";"80";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_121518_eudaq_scan.h5 
+mpx2_run442_220707121529.raw"
+353;Thu  07 Jul 2022 10:14:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:09 CET";"2022/07/07 12:14 CET";"441";"26";"W5R18";;"ITHR";"84";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_120940_eudaq_scan.h5 
+mpx2_run441_220707120952.raw"
+352;Thu  07 Jul 2022 10:09:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 12:04 CET";"2022/07/07 12:09 CET";"440";"26";"W5R18";;"ITHR";"74";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_120401_eudaq_scan.h5 
+mpx2_run440_220707120412.raw"
+351;Thu  07 Jul 2022 10:03:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 11:58 CET";"2022/07/07 12:03 CET";"439";"26";"W5R18";;"ITHR";"64";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_115823_eudaq_scan.h5 
+mpx2_run439_220707115835.raw"
+350;Thu  07 Jul 2022 09:58:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 11:52 CET";"2022/07/07 11:58 CET";"438";"26";"W5R18";;"ITHR";"54";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_115245_eudaq_scan.h5 
+mpx2_run438_220707115257.raw"
+349;Thu  07 Jul 2022 09:52:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/07 11:47 CET";"2022/07/07 11:52 CET";"437";"26";"W5R18";;"ITHR";"44";"Default settings: register scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_114706_eudaq_scan.h5 
+mpx2_run437_220707114718.raw"
+348;Thu  07 Jul 2022 09:47:54 +0000;"Yannik Buch";"Operating CPPM chip at low bias voltages";"General";;;;;;;;;;"Interesting observation:
+
+When lowering the PSUB/PWELL Voltage, the efficiency drops slightly but not very much up to 0.75 V.
+At 0.625 V, we do not see any hits. Wen operating at 0.688V, we see hits first (quite many, analysis is pending) but at some point in time, the chips just stops sending data at all (zero hits).
+
+This looks very much like the chip freezes, I don't think this is a drift effect because the edge from many hits per event to zero is from one moment to the other.
+
+We did observe that the chip stops sending data when the registers are set completely wrong, and needs a power cycle to send data again (some digital thing appearently) so it might be the same here "
+347;Thu  07 Jul 2022 09:40:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 11:36 CET";"2022/07/07 11:40 CET";"436";"26";"W5R18";"unknown";"PSUB/PWELL";"0.688";"At first we got hits, but tat some point the chip stopped sending data
+Appearently this explains why we got zero hits for 0.5V PSUB/PWELL
+
+Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_113620_eudaq_scan.h5 
+mpx2_run436_220707113632.raw"
+346;Thu  07 Jul 2022 09:34:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 11:30 CET";"2022/07/07 11:34 CET";"435";"26";"W5R18";"unknown";"PSUB/PWELL";"0.688";"At first we got hits, but tat some point the chip stopped sending data
+
+Appearently this explains why we got zero hits for 0.5V PSUB/PWELL
+
+
+Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_113000_eudaq_scan.h5 
+mpx2_run435_220707113011.raw
+
+(Errors trigger numbers not incrementing by one)"
+345;Thu  07 Jul 2022 09:28:45 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 11:27 CET";"2022/07/07 11:28 CET";"434";"26";"W5R18";;"PSUB/PWELL";"0.625";"Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_112719_eudaq_scan.h5 
+mpx2_run434_220707112731.raw"
+344;Thu  07 Jul 2022 09:26:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 11:07 CET";"2022/07/07 11:26 CET";"433";"26";"W5R18";;"PSUB/PWELL";"0.75";"Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_110725_eudaq_scan.h5 
+mpx2_run433_220707110737.raw"
+343;Thu  07 Jul 2022 09:17:45 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 11:17 CET";;"433";;;;;
+342;Thu  07 Jul 2022 09:12:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 11:12 CET";;"432";;;;;
+341;Thu  07 Jul 2022 09:10:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 11:10 CET";;"431";;;;;
+340;Thu  07 Jul 2022 09:07:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 10:46 CET";"2022/07/07 11:07 CET";"432";"26";"W5R18";;"PSUB/PWELL";"1";"Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_104606_eudaq_scan.h5 
+mpx2_run432_220707104618.raw"
+339;Thu  07 Jul 2022 08:57:48 +0000;"Benjamin Schwenker";"Compare Corry and TBSW on Psub/Pwell can on Goe DUT ";"General";"other";;;;;;;;;"
+Comparison of efficiency and residuals rms and charge (ToT in LSB) mean for two frameworks (corryvrekan and tbsw) as cross check. 
+
+https://github.com/BenjaminSchwenker/tbsw   (developed before corryvrekan and fully independent of it, originally based on ILCSoft)
+
+
+The alignment and residuals in tbsw are slightly better. The efficiency comes out very much the same (few permill lower in tbsw). we should scan Psub/Pwell in smaller steps between 1.8 and 2.0
+(either thursday or friday)"
+338;Thu  07 Jul 2022 08:45:28 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 10:36 CET";"2022/07/07 10:45 CET";"431";"26";"W5R18";;"PSUB/PWELL";"0.5";"Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_103636_eudaq_scan.h5 
+mpx2_run431_220707103647.raw"
+337;Thu  07 Jul 2022 08:40:19 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 10:40 CET";;"430";;;;;
+336;Thu  07 Jul 2022 08:38:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 10:38 CET";;"429";;;;;
+335;Thu  07 Jul 2022 08:36:50 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 10:36 CET";;"428";;;;;
+334;Thu  07 Jul 2022 08:35:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 10:14 CET";"2022/07/07 10:35 CET";"430";"26";"W5R18";;"PSUB/PWELL";"1.8";"Default settings: Voltage scan, Low row, manual voltage scan 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_101440_eudaq_scan.h5 
+mpx2_run430_220707101452.raw"
+333;Thu  07 Jul 2022 08:33:19 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 10:33 CET";;"426";;;;;
+332;Thu  07 Jul 2022 08:31:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/07 10:31 CET";;"425";;;;;
+331;Thu  07 Jul 2022 08:30:42 +0000;"Yannik Buch";" Desy TB 2022 Run";"Run";"VoltageScan";;;"429";"26";"W5R18";;"PSUB/PWELL";"4";"Default settings: Voltage scan, Low row 
+eudaq_scan with W5R18
+
+The scan went into compliance after about 10 minutes, but should be sufficient to be analyzed"
+329;Thu  07 Jul 2022 07:52:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 09:11 CET";"2022/07/07 09:32 CET";"427";"26";"W5R18";;"PSUB/PWELL";"2";"Default settings: Voltage scan, Low row 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_091145_eudaq_scan.h5 
+mpx2_run427_220707091204.raw"
+330;Thu  07 Jul 2022 07:52:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/07 09:32 CET";"2022/07/07 09:52 CET";"428";"26";"W5R18";;"PSUB/PWELL";"3";"Default settings: Voltage scan, Low row 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_093232_eudaq_scan.h5 
+mpx2_run428_220707093243.raw"
+328;Thu  07 Jul 2022 07:10:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/07 08:08 CET";"2022/07/07 09:10 CET";"426";"26";"W5R18";;;;"Default settings Low row 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220707_080831_eudaq_scan.h5 
+mpx2_run426_220707080847.raw"
+327;Thu  07 Jul 2022 06:05:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/06 23:59 CET";"2022/07/07 08:05 CET";"425";"26";"W5R18";;;;"Patrick settings: statistics run LR with telescope data 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_235918_eudaq_scan.h5 
+mpx2_run425_220706235930.raw"
+326;Wed  06 Jul 2022 21:54:49 +0000;"Yannik Buch";"Voltage scan crashed ";"General";"VoltageScan";;;"423";"26";"W05R18";;"PSUB/PWELL";;"Voltage scan crashes for 4 and 5V for the module. Most likely due to current limit (?)
+We observed 1mA at 4V PSUB/PWELL."
+325;Wed  06 Jul 2022 21:39:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/06 23:19 CET";"2022/07/06 23:39 CET";"421";"26";"W5R18";;"PSUB/PWELL";"3";"Patrick settings: Voltagescan with telescope data 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_231938_eudaq_scan.h5 
+mpx2_run421_220706231950.raw"
+324;Wed  06 Jul 2022 21:30:01 +0000;"Yannik Buch";"MimosaDAQ Crash - no telescope raw files for run 315-320";"General";"other";;;;;;;;;"After the restart of the NI Crate PC that is running the Mimosa software it lost its configuration. The result was that it responded and could be init'ed, configured and started by run control but no telescope raw files were written. Runs 315 to 320 are affected. Refer to MIMOSA DAQ GOES TO SHIT Manual on green paper to fix it (also attached)."
+323;Wed  06 Jul 2022 21:19:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/06 22:59 CET";"2022/07/06 23:19 CET";"420";"26";"W5R18";;"PSUB/PWELL";"2";"Patrick settings: Voltagescan with telescope data 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_225900_eudaq_scan.h5 
+mpx2_run420_220706225911.raw"
+322;Wed  06 Jul 2022 20:54:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/06 22:53 CET";"2022/07/06 22:54 CET";"419";"26";"W5R18";;;;"Patrick settings: Alignment run 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_225327_eudaq_scan.h5 
+mpx2_run419_220706225338.raw"
+321;Wed  06 Jul 2022 20:29:51 +0000;"Yannik Buch";"Improved register setting for CPPM normal FE (Patricks version)";"General";;;;;;"W05R18";;;;"#chip register config
+IBIAS = 100  # custom
+ITHR = 50
+
+
+# these are default values:
+ICASN = 0
+IDB = 100
+ITUNE = 53
+VRESET = 143
+VCASP = 93
+VCASC = 228
+
+Resulting in a threshold of about ~400e for normal FEs"
+320;Wed  06 Jul 2022 19:58:59 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/06 21:58 CET";"2022/07/06 21:58 CET";"417";"26";"W5R18";"bad";;;"NO TELESCOPE FILE
+
+Patrick settings: Alignment run 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_215800_eudaq_scan.h5 
+mpx2_run417_220706215811.raw"
+319;Wed  06 Jul 2022 19:51:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/06 21:44 CET";"2022/07/06 21:51 CET";"415";"26";"W5R18";"bad";"PSUB/PWELL";"2";"NO TELESCOPE FILE
+
+
+Voltage scan failes for 5V step, but not for smaller voltages. Scan was to investigate the behaviour.
+
+Patrick settings: Voltage scan. 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_214414_eudaq_scan.h5 
+mpx2_run415_220706214426.raw"
+318;Wed  06 Jul 2022 17:25:11 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/06 19:04 CET";"2022/07/06 19:25 CET";"411";"26";"W5R18";"bad";"PSUB/PWELL";"4";"NO TELESCOPE FILE
+
+
+Patrick settings: Voltage scan. 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_190453_eudaq_scan.h5 
+mpx2_run411_220706190505.raw"
+317;Wed  06 Jul 2022 17:04:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/06 18:44 CET";"2022/07/06 19:04 CET";"410";"26";"W5R18";"bad";"PSUB/PWELL";"3";"NO TELESCOPE FILE
+
+
+Patrick settings: Voltage scan. 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_184414_eudaq_scan.h5 
+mpx2_run410_220706184426.raw"
+316;Wed  06 Jul 2022 16:43:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/06 18:23 CET";"2022/07/06 18:43 CET";"409";"26";"W5R18";"bad";"PSUB/PWELL";"2";"NO TELESCOPE FILE
+
+
+Patrick settings: Voltage scan. 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_182336_eudaq_scan.h5 
+mpx2_run409_220706182347.raw"
+315;Wed  06 Jul 2022 16:17:59 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/06 17:17 CET";"2022/07/06 18:17 CET";"407";"26";"W5R18";"bad";;;"NO TELESCOPE FILE
+
+
+Patrick settings: Alignment run 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_171702_eudaq_scan.h5 
+mpx2_run407_220706171714.raw"
+314;Wed  06 Jul 2022 15:10:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 17:09 CET";"2022/07/06 17:10 CET";"406";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun: Patrick settings 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_170931_eudaq_scan.h5 
+mpx2_run406_220706170942.raw"
+313;Wed  06 Jul 2022 15:09:05 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 17:05 CET";"2022/07/06 17:09 CET";"405";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun normal FE 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_170550_eudaq_scan.h5 
+mpx2_run405_220706170601.raw"
+312;Wed  06 Jul 2022 15:01:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 17:00 CET";"2022/07/06 17:00 CET";"404";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun normal FE, improved experimental settings 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_170008_eudaq_scan.h5 
+mpx2_run404_220706170021.raw"
+311;Wed  06 Jul 2022 14:58:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 16:58 CET";"2022/07/06 16:58 CET";"403";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun normal FE, improved experimental settings 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_165812_eudaq_scan.h5 
+mpx2_run403_220706165823.raw"
+310;Wed  06 Jul 2022 14:55:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 16:54 CET";"2022/07/06 16:55 CET";"402";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun normal FE 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_165442_eudaq_scan.h5 
+mpx2_run402_220706165454.raw"
+309;Wed  06 Jul 2022 14:42:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/06 16:35 CET";"2022/07/06 16:42 CET";"401";"26";"W5R18";"bad";;;"NO TELESCOPE FILE
+
+
+First scan with improved settings - beam was off, so also counted as noiserun
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_163530_eudaq_scan.h5 
+mpx2_run401_220706163542.raw"
+308;Wed  06 Jul 2022 14:33:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/06 16:31 CET";"2022/07/06 16:33 CET";"400";"26";"W5R18";;;;"NO TELESCOPE FILE
+
+
+Noiserun normal FE, improved experimental settings 
+eudaq_scan with W5R18 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220706_163159_eudaq_scan.h5 
+mpx2_run400_220706163212.raw"
+307;Wed  06 Jul 2022 14:07:15 +0000;"Yannik Buch";"Further improvements Normal AND Normal Casc settings at the same time";"General";;;;;;;;;;"Resulting in a threshold of about 350e for both FEs
+
+IBIAS: 90
+VRESET: 125
+ITHR: 40
+VCASC: 210
+
+
+We expect some noise on the normal FE"
+306;Wed  06 Jul 2022 13:20:29 +0000;"Yannik Buch";"Improved register setting for CPPM normal FE";"General";;;;;;;;;;"Here optimized values for the Normal frontend.
+Here the list of regiseters required:
+  
+
+ITHR"": 35,
+IBIAS"": 100,
+VRESET"": 125,
+IDB: 85
+
+
+The threshold is about 320e, which is not great but much better than before.
+
+Tests were run with the CPPM mosule (W5R18)"
+305;Wed  06 Jul 2022 10:56:45 +0000;"Yannik Buch";" Slightly optimized values for Normal FE/CPPM module ";"General";"other";;;;;;;;;"Here slightly optimized values for the Normal frontend.
+Here the list of registers required:
+
+threshold ~300
+
+IBIAS: 65
+VRESET: 125
+ITHR: 30
+
+
+Tests were run with the CPPM module (W5R18)"
+304;Wed  06 Jul 2022 10:46:30 +0000;"Yannik Buch";"Optimized values for Normal Cascode FE/CPPM module";"General";;;;;;;;;;"Here optimized values for the Normal Cascode frontend. It will be required to disable the Normal FE as it will overshoot a lot with these settings.
+Here the list of regiseters required:
+
+The threshold is about 350e, which is not great but much better than before.
+
+IBIAS: 100
+VRESET: 125
+ITHR: 28
+
+Still, this is already at the border of stability.
+
+Tests were run with the CPPM mosule (W5R18)"
+303;Wed  06 Jul 2022 09:52:27 +0000;"Marike Schwickardi";"Telescope alignement for config 26";"General";;;;;;;;;;"
+Cat drawing of the housing of the mimosa sensors. The plan with a hole of the housing is positioned towards the beam.
+https://twiki.cern.ch/twiki/pub/MimosaTelescope/WebHome/Sensorboard_Housing_V3.pdf"
+302;Wed  06 Jul 2022 08:05:12 +0000;"Yannik Buch";"S-curve scan";"TJ-Scan";"S-curve-Scan";"06/07/2022 10:05";;;"26";;;;;"20220706_100129_threshold_scan_interpreted.h5
+
+scan_configuration = {
+    'start_column': 226,
+    'stop_column': 228,
+    'start_row': 0,
+    'stop_row': 512,
+
+    'n_injections': 100,
+    'VCAL_HIGH': 150,
+    'VCAL_LOW_start': 140,
+    'VCAL_LOW_stop': 40,
+    'VCAL_LOW_step': -1
+}
+
+register_overrides = {
+    ""ITHR"": 64,
+    ""IBIAS"": 50,
+    ""ICASN"": 0,
+    ""VCASP"": 93,
+    ""VRESET"": 143,
+    ""VCASC"": 228,
+    ""IDB"": 100,
+    'ITUNE': 53
+}"
+301;Wed  06 Jul 2022 07:55:14 +0000;"Yannik Buch";"S-curve scan";"TJ-Scan";"S-curve-Scan";"06/07/2022 09:15";;;"26";;;;;"20220706_091740_threshold_scan_interpreted.h5
+
+scan_configuration = {
+    'start_column': 0,
+    'stop_column': 2,
+    'start_row': 0,
+    'stop_row': 512,
+
+    'n_injections': 100,
+    'VCAL_HIGH': 150,
+    'VCAL_LOW_start': 140,
+    'VCAL_LOW_stop': 40,
+    'VCAL_LOW_step': -1
+}
+
+
+register_overrides = {
+    ""ITHR"": 64,
+    ""IBIAS"": 50,
+    ""ICASN"": 0,
+    ""VCASP"": 93,
+    ""VRESET"": 143,
+    ""VCASC"": 228,
+    ""IDB"": 100,
+    'ITUNE': 53
+}"
+300;Wed  06 Jul 2022 07:23:06 +0000;"Yannik Buch";"Config change";"ConfigID";;"06/07/2022 09:00";;"400";"26";;;;;"New DUT: W5R18
+
+Config ID: 26
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid26.geo
+
+telescope alignment inherited from geoid21
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =9,85cm
+MIM26 4 =11,8cm
+MIM26 5 =15,2cm
+FEI4 6 = -
+MIM26 7 =18,6cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+299;Wed  06 Jul 2022 06:06:50 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 22:28 CET";"2022/07/06 08:06 CET";"399";"25";"W8R3";;;;"Overnight run with masked pixels
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_222828_eudaq_scan.h5 
+mpx2_run399_220705222842.raw"
+298;Tue  05 Jul 2022 21:13:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/05 23:13 CET";;"380";;;;;
+297;Tue  05 Jul 2022 21:03:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/05 23:03 CET";;"379";;;;;
+296;Tue  05 Jul 2022 20:53:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/05 22:53 CET";;"378";;;;;
+295;Tue  05 Jul 2022 20:42:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/05 22:42 CET";;"377";;;;;
+294;Tue  05 Jul 2022 20:28:48 +0000;"Benjamin Schwenker";"Config change";"ConfigID";;"05/07/2022 22:38";;"399";"25";;;;;"Config ID: 25
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid25.geo
+
+telescope alignment inherited from geoid21
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um
+
+ELOG V3.1.4-395e101"
+293;Tue  05 Jul 2022 20:24:33 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Anaylsis";"generic analysis";"2022/07/05 22:24 CET";;"397";;;;;
+292;Tue  05 Jul 2022 20:22:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 22:01 CET";"2022/07/05 22:21 CET";"398";"24";"W8R3";;;;"New run with masked pixels 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_220130_eudaq_scan.h5 
+mpx2_run398_220705220144.raw"
+290;Tue  05 Jul 2022 20:03:59 +0000;"Benjamin Schwenker";"Masked pixels";"General";"other";;;"398";;"W8R3";;;;"Starting from run number 398 we applied the mask obtained from run 397"
+289;Tue  05 Jul 2022 19:47:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 19:31 CET";"2022/07/05 21:47 CET";"397";"24";"W8R3";;;;"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_193111_eudaq_scan.h5 
+mpx2_run397_220705193134.raw"
+288;Tue  05 Jul 2022 17:21:24 +0000;"Benjamin Schwenker";"Config change";"ConfigID";"other";"19:21 05/07/2022";;"397";"24";;;;;"New DUT: W8R3
+
+Config ID: 24
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid24.geo
+
+telescope alignment inherited from geoid21
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+287;Tue  05 Jul 2022 17:14:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 19:04 CET";"2022/07/05 19:14 CET";"396";"23";"W8R3";;"HV";"10";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_190401_eudaq_scan.h5 
+mpx2_run396_220705190413.raw"
+286;Tue  05 Jul 2022 17:03:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 18:53 CET";"2022/07/05 19:03 CET";"395";"23";"W8R3";;"HV";"9";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_185323_eudaq_scan.h5 
+mpx2_run395_220705185336.raw"
+285;Tue  05 Jul 2022 16:53:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 18:42 CET";"2022/07/05 18:53 CET";"394";"23";"W8R3";;"HV";"8";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_184245_eudaq_scan.h5 
+mpx2_run394_220705184257.raw"
+284;Tue  05 Jul 2022 16:42:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 18:32 CET";"2022/07/05 18:42 CET";"393";"23";"W8R3";;"HV";"7";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_183206_eudaq_scan.h5 
+mpx2_run393_220705183219.raw"
+283;Tue  05 Jul 2022 16:31:45 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 18:21 CET";"2022/07/05 18:31 CET";"392";"23";"W8R3";;"HV";"6";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_182128_eudaq_scan.h5 
+mpx2_run392_220705182141.raw"
+282;Tue  05 Jul 2022 16:21:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 18:10 CET";"2022/07/05 18:21 CET";"391";"23";"W8R3";;"HV";"5";"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_181050_eudaq_scan.h5 
+mpx2_run391_220705181102.raw"
+281;Tue  05 Jul 2022 16:05:52 +0000;"Benjamin Schwenker";"Config change";"ConfigID";;"05/07/2022 18:05";;"391";"23";;;;;"New DUT: W8R3
+
+Config ID: 23
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid23.geo
+
+telescope alignment inherited from geoid21
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+280;Tue  05 Jul 2022 14:31:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 16:29 CET";"2022/07/05 16:31 CET";"390";"22";"W8R3";;;;"Test run for telescope alignment 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_162947_eudaq_scan.h5 
+mpx2_run390_220705163000.raw"
+279;Tue  05 Jul 2022 14:27:21 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 16:12 CET";"2022/07/05 16:27 CET";"389";"22";"W8R3";;"HV";"6";"Vienna W8R3, Big collimator, Voltage scan, unknown data quality
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_161258_eudaq_scan.h5 
+mpx2_run389_220705161309.raw"
+278;Tue  05 Jul 2022 14:26:54 +0000;"Benjamin Schwenker";"Config change: only collimator changed to 5x5";"ConfigID";"other";;;"390";"22";;;;;"Only collimator changed - it is off position of the HV frontend but this run might be better suited for the telescope alignment
+
+New DUT: W8R3
+
+Config ID: 22
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid22.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+277;Tue  05 Jul 2022 14:12:35 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 15:52 CET";"2022/07/05 16:12 CET";"388";"21";"W8R3";;"HV";"5";"Vienna W8R3, Big collimator, Voltage scan
+
+for ROI add this to the monopix part of the aligned geo file:
+roi = [[480,0],[480,512],[496,512],[496,0]]
+
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_155218_eudaq_scan.h5 
+mpx2_run388_220705155230.raw"
+276;Tue  05 Jul 2022 13:50:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 15:48 CET";"2022/07/05 15:50 CET";"387";"21";"W8R3";"bad";;;"Noiserun HV FE 
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_154805_eudaq_scan.h5 
+mpx2_run387_220705154817.raw"
+275;Tue  05 Jul 2022 13:47:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 15:27 CET";"2022/07/05 15:47 CET";"386";"21";"W8R3";"bad";;;"Noiserun HV FE 
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_152727_eudaq_scan.h5 
+mpx2_run386_220705152739.raw"
+274;Tue  05 Jul 2022 13:27:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/05 15:06 CET";"2022/07/05 15:27 CET";"385";"21";"W8R3";;;;"Noiserun HV FE 
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_150650_eudaq_scan.h5 
+mpx2_run385_220705150702.raw"
+273;Tue  05 Jul 2022 13:05:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/05 14:58 CET";"2022/07/05 15:05 CET";"384";"21";"W8R3";;;;"Noiserun HV FE 
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_145835_eudaq_scan.h5 
+mpx2_run384_220705145847.raw"
+272;Tue  05 Jul 2022 12:58:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 14:56 CET";"2022/07/05 14:58 CET";"383";"21";"W8R3";;;;"New DUT: Vienna (W8R3), Dry (Noise) run with W8R3-Custom settings (HV only) 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_145601_eudaq_scan.h5 
+mpx2_run383_220705145613.raw"
+271;Tue  05 Jul 2022 12:53:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 13:41 CET";"2022/07/05 14:53 CET";"382";"21";"W8R3";;;;"New DUT Vienna W8R3 Big collimator HVCasc run with the baseline settings 
+eudaq_scan with W8R3 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220705_134117_eudaq_scan.h5 
+mpx2_run382_220705134128.raw"
+270;Tue  05 Jul 2022 11:31:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 12:28 CET";"2022/07/05 13:31 CET";"381";"21";"W8R3";;;;"New DUT: Vienna (W8R3) Big collimator, HV only run 
+eudaq_scan with W8R3 
+Pixels: 481:512 --> Frontends: HV FE 
+20220705_122807_eudaq_scan.h5 
+mpx2_run381_220705122821.raw"
+269;Tue  05 Jul 2022 11:29:20 +0000;"Benjamin Schwenker";"DIsabled pixels for W14R12";"General";;;;;;;;;;"These pixels were ignored all (not very early) runs apparently"
+268;Tue  05 Jul 2022 10:28:31 +0000;"Benjamin Schwenker";"Config change: New DUT W8R3";"ConfigID";"other";;;"381";"21";"W8R3";;;;"New DUT: W8R3
+
+Config ID: 21
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid21.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+267;Tue  05 Jul 2022 10:01:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 11:55 CET";"2022/07/05 12:01 CET";"380";"20";"W14R12";;"PSUB/PWELL";"5";"VoltageScan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_115556_eudaq_scan.h5 
+mpx2_run380_220705115608.raw"
+266;Tue  05 Jul 2022 09:55:33 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 11:50 CET";"2022/07/05 11:55 CET";"379";"20";"W14R12";;"PSUB/PWELL";"4";"VoltageScan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_115017_eudaq_scan.h5 
+mpx2_run379_220705115029.raw"
+265;Tue  05 Jul 2022 09:49:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 11:44 CET";"2022/07/05 11:49 CET";"378";"20";"W14R12";;"PSUB/PWELL";"3";"VoltageScan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_114440_eudaq_scan.h5 
+mpx2_run378_220705114452.raw"
+264;Tue  05 Jul 2022 09:44:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/05 11:39 CET";"2022/07/05 11:44 CET";"377";"20";"W14R12";;"PSUB/PWELL";"2";"VoltageScan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_113902_eudaq_scan.h5 
+mpx2_run377_220705113914.raw"
+263;Tue  05 Jul 2022 09:31:16 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 11:24 CET";"2022/07/05 11:31 CET";"376";"20";"W14R12";;"IDB";"110";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_112459_eudaq_scan.h5 
+mpx2_run376_220705112511.raw"
+262;Tue  05 Jul 2022 09:24:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 11:18 CET";"2022/07/05 11:24 CET";"375";"20";"W14R12";;"IDB";"105";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_111822_eudaq_scan.h5 
+mpx2_run375_220705111834.raw"
+261;Tue  05 Jul 2022 09:18:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 11:11 CET";"2022/07/05 11:17 CET";"374";"20";"W14R12";;"IDB";"100";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_111144_eudaq_scan.h5 
+mpx2_run374_220705111155.raw"
+260;Tue  05 Jul 2022 09:11:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 11:05 CET";"2022/07/05 11:11 CET";"373";"20";"W14R12";;"IDB";"95";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_110506_eudaq_scan.h5 
+mpx2_run373_220705110518.raw"
+259;Tue  05 Jul 2022 09:04:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:58 CET";"2022/07/05 11:04 CET";"372";"20";"W14R12";;"IDB";"90";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_105829_eudaq_scan.h5 
+mpx2_run372_220705105840.raw"
+258;Tue  05 Jul 2022 08:58:08 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:51 CET";"2022/07/05 10:58 CET";"371";"20";"W14R12";;"VRESET";"180";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_105150_eudaq_scan.h5 
+mpx2_run371_220705105203.raw"
+257;Tue  05 Jul 2022 08:51:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:45 CET";"2022/07/05 10:51 CET";"370";"20";"W14R12";;"VRESET";"160";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_104511_eudaq_scan.h5 
+mpx2_run370_220705104524.raw"
+256;Tue  05 Jul 2022 08:44:50 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:38 CET";"2022/07/05 10:44 CET";"369";"20";"W14R12";;"VRESET";"140";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_103832_eudaq_scan.h5 
+mpx2_run369_220705103845.raw"
+255;Tue  05 Jul 2022 08:38:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:31 CET";"2022/07/05 10:38 CET";"368";"20";"W14R12";;"VRESET";"120";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_103151_eudaq_scan.h5 
+mpx2_run368_220705103204.raw"
+254;Tue  05 Jul 2022 08:31:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:25 CET";"2022/07/05 10:31 CET";"367";"20";"W14R12";;"VRESET";"100";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_102512_eudaq_scan.h5 
+mpx2_run367_220705102525.raw"
+253;Tue  05 Jul 2022 08:24:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 10:18 CET";"2022/07/05 10:24 CET";"366";"20";"W14R12";;"VRESET";"80";"DAC scan with big collimator for high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_101828_eudaq_scan.h5 
+mpx2_run366_220705101846.raw"
+252;Tue  05 Jul 2022 08:05:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 09:04 CET";"2022/07/05 10:05 CET";"365";"20";"W14R12";;;;"Statistics run for HR with big collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_090419_eudaq_scan.h5 
+mpx2_run365_220705090431.raw"
+251;Tue  05 Jul 2022 07:06:33 +0000;"Benjamin Schwenker";"Config change: Big collimator";"ConfigID";"other";;;"365";"20";;;;;"High Row normal FE settings for measurement plan
+
+Config ID: 20
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid20.geo
+
+telescope alignment inherited from geoid14
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+250;Tue  05 Jul 2022 06:54:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/05 07:50 CET";"2022/07/05 08:54 CET";"364";"19";"W14R12";;;;"Statistics run for HR with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_075050_eudaq_scan.h5 
+mpx2_run364_220705075107.raw"
+249;Mon  04 Jul 2022 23:15:00 +0000;"Benjamin Schwenker";"Config change";"ConfigID";"other";"05/07/2022 01:14";;"364";"19";;;;;"Low Row normal FE settings for measurement plan
+
+Config ID: 19
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid19.geo
+telescope alignment inherited from geoid14
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+248;Mon  04 Jul 2022 23:07:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 01:01 CET";"2022/07/05 01:07 CET";"363";"18";"W14R12";;"ITHR";"84";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_010123_eudaq_scan.h5 
+mpx2_run363_220705010137.raw"
+247;Mon  04 Jul 2022 23:06:50 +0000;"Yannik Buch";"HV Scan results";"Analysis";"VoltageScan";;;"348-353";"16";"W14R12";;;;"Various quantities plotted in dependence of HV. Values are from Voltage Scans from runs 348-353. The last run seems a bit fishy with HV=10 (File is also smaller). Will talk to Maximilian tomorrow. "
+246;Mon  04 Jul 2022 23:01:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:54 CET";"2022/07/05 01:01 CET";"362";"18";"W14R12";;"ITHR";"74";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_005445_eudaq_scan.h5 
+mpx2_run362_220705005456.raw"
+245;Mon  04 Jul 2022 22:54:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:48 CET";"2022/07/05 00:54 CET";"361";"18";"W14R12";;"ITHR";"64";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_004805_eudaq_scan.h5 
+mpx2_run361_220705004817.raw"
+244;Mon  04 Jul 2022 22:47:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:41 CET";"2022/07/05 00:47 CET";"360";"18";"W14R12";;"ITHR";"54";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_004126_eudaq_scan.h5 
+mpx2_run360_220705004138.raw"
+243;Mon  04 Jul 2022 22:41:05 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:34 CET";"2022/07/05 00:41 CET";"359";"18";"W14R12";;"ITHR";"44";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_003448_eudaq_scan.h5 
+mpx2_run359_220705003501.raw"
+242;Mon  04 Jul 2022 22:24:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:17 CET";"2022/07/05 00:24 CET";"357";"18";"W14R12";;"ITHR";"34";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_001746_eudaq_scan.h5 
+mpx2_run357_220705001758.raw"
+241;Mon  04 Jul 2022 22:17:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/05 00:11 CET";"2022/07/05 00:17 CET";"356";"18";"W14R12";;"ITHR";"24";"DAC scan with small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220705_001108_eudaq_scan.h5 
+mpx2_run356_220705001120.raw"
+240;Mon  04 Jul 2022 22:16:49 +0000;"Yannik Buch";"Efficiency of small colliamtor vs wide collimator";"General";"other";;;"354+355";;;;;;"After running 1h on the normal FE with the small and wide collimator to compare efficiencies we observed a difference of O(10%) in the efficiencies. Wide coll: 0.8996 Small coll: 0.9921.
+On the basis of these findings we will continue measuring with the small collimator.
+An assortment of plots is attached."
+239;Mon  04 Jul 2022 22:01:08 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 23:00 CET";"2022/07/05 00:01 CET";"355";"18";"W14R12";;;;"Statistics run for the normal frontend, small collimator 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220704_230041_eudaq_scan.h5 
+mpx2_run355_220704230117.raw"
+238;Mon  04 Jul 2022 20:56:57 +0000;"Benjamin Schwenker";"Config change";"ConfigID";;"04/07/2022 22:56";;"355";"18";;;;;"Low Row normal FE settings for measurement plan
+
+Config ID: 18
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid18.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+237;Mon  04 Jul 2022 20:52:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 21:51 CET";"2022/07/04 22:52 CET";"354";"17";"W14R12";;;;"""Statistics run for the normal frontend, large collimator""
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220704_215134_eudaq_scan.h5 
+mpx2_run354_220704215147.raw"
+236;Mon  04 Jul 2022 20:14:23 +0000;"Benjamin Schwenker";"Config change";"ConfigID";;"04/07/2022 21:35";;"354";"17";;;;;"Low Row normal FE settings for measurement plan
+
+Config ID: 17
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid17.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+235;Mon  04 Jul 2022 19:36:35 +0000;"Benjamin Schwenker";"S-curve scan";"TJ-Scan";"S-curve-Scan";"04/07/2022 21:34";;;"16";"W14R12";;;;"normal CASC FE
+
+/home/bellevtx01/vtx/tj-monopix2-daq/tjmonopix2/scans/output_data/module_0/20220704_212834_threshold_scan_interpreted.h5
+
+scan_configuration = {
+    'start_column': 225,
+    'stop_column': 230,
+    'start_row': 0,
+    'stop_row': 512,
+
+    'n_injections': 100,
+    'VCAL_HIGH': 150,
+    'VCAL_LOW_start': 140,
+    'VCAL_LOW_stop': 40,
+    'VCAL_LOW_step': -1
+}
+
+register_overrides = {
+    ""ITHR"": 64,
+    ""IBIAS"": 50,
+    ""ICASN"": 0,
+    ""VCASP"": 93,
+    ""VRESET"": 143,
+    ""VCASC"": 228,
+    ""IDB"": 100,
+    'ITUNE': 53
+}"
+234;Mon  04 Jul 2022 19:07:56 +0000;"Benjamin Schwenker";"S-curve scan";"TJ-Scan";"S-curve-Scan";"04/07/2022 21:35";;;"16";"W14R12";;;;"Normal FE S-curve scan:
+/home/bellevtx01/vtx/tj-monopix2-daq/tjmonopix2/scans/output_data/module_0/chip_0/20220704_213503_threshold_scan_interpreted.h5 "
+233;Mon  04 Jul 2022 18:54:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 20:33 CET";"2022/07/04 20:54 CET";"353";"16";"W14R12";;"HV";"10";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_203348_eudaq_scan.h5 
+mpx2_run353_220704203400.raw"
+232;Mon  04 Jul 2022 17:05:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 18:45 CET";"2022/07/04 19:05 CET";"352";"16";"W14R12";;"HV";"9";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_184511_eudaq_scan.h5 
+mpx2_run352_220704184522.raw"
+231;Mon  04 Jul 2022 16:44:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 18:24 CET";"2022/07/04 18:44 CET";"351";"16";"W14R12";;"HV";"8";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_182433_eudaq_scan.h5 
+mpx2_run351_220704182445.raw"
+230;Mon  04 Jul 2022 16:24:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 18:03 CET";"2022/07/04 18:24 CET";"350";"16";"W14R12";;"HV";"7";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_180352_eudaq_scan.h5 
+mpx2_run350_220704180406.raw"
+229;Mon  04 Jul 2022 16:03:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 17:43 CET";"2022/07/04 18:03 CET";"349";"16";"W14R12";;"HV";"6";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_174314_eudaq_scan.h5 
+mpx2_run349_220704174325.raw"
+228;Mon  04 Jul 2022 15:31:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 17:11 CET";"2022/07/04 17:31 CET";"348";"16";"W14R12";;"HV";"5";"HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_171130_eudaq_scan.h5 
+mpx2_run348_220704171142.raw"
+227;Mon  04 Jul 2022 15:08:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 16:06 CET";"2022/07/04 17:08 CET";"347";"16";"W14R12";;;;"Long run, HV with VRESET of 100, low row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_160656_eudaq_scan.h5 
+mpx2_run347_220704160739.raw"
+226;Mon  04 Jul 2022 14:12:08 +0000;"Benjamin Schwenker";"Config change (Move to Low Row)";"ConfigID";"other";;;"347";"16";;;;;"Low Row HV settings for measurement plan pilot
+
+Config ID: 16
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid16.geo
+
+
+telescope alignment inherited from geoid14
+
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+225;Mon  04 Jul 2022 13:54:11 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Noiserun";"2022/07/04 15:50 CET";"2022/07/04 15:54 CET";"346";"15";"W14R12";;;;"Noiserun HV FE 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_155001_eudaq_scan.h5 
+mpx2_run346_220704155014.raw"
+224;Mon  04 Jul 2022 13:44:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 15:35 CET";"2022/07/04 15:44 CET";"345";"15";"W14R12";;;;"Long run, HV with VRESET of 100, high row, 12x18mm2 collimator 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_153554_eudaq_scan.h5 
+mpx2_run345_220704153608.raw"
+223;Mon  04 Jul 2022 13:35:03 +0000;"Bernhard Pilsl";"FIFO data format documentation";"General";"other";;;;;;;;;"The FIFO data format from the FPGA is implemented in the following way:
+
+this is actual hit data of the different hit pixel
+
+the smallest possible frame consists only of 1 Hit,
+spread over 2 data words,
+and looks like this:
+
+H | SOF| D0 | D1
+H | D2 | D3 | EOF
+
+H .. Header: 5bit
+dx .. different (pixel index, te, le) data: 9 bit
+SOF .. Start of frame
+EOF .. End of frame
+
+There might be more than 1 hit per frame,
+so the Dx might occur n times.
+In this case the last (possibly) not full 32 bit word
+ will be filled with an idle block
+
+There might also be triggerwords everywhere in the FIFO (distinguishable by 5 bit header)
+
+
+The full event building procedure can be found in the source-file attached (part of custom EUDAQ build, important function is ""Converting"" )"
+222;Mon  04 Jul 2022 12:35:07 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/04 14:14 CET";"2022/07/04 14:35 CET";"343";"15";"W14R12";;"VRESET";"180";"Trial run: VRESET sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_141450_eudaq_scan.h5 
+mpx2_run343_220704141503.raw"
+221;Mon  04 Jul 2022 12:14:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/04 13:54 CET";"2022/07/04 14:14 CET";"342";"15";"W14R12";;"VRESET";"160";"Trial run: VRESET sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_135410_eudaq_scan.h5 
+mpx2_run342_220704135423.raw"
+220;Mon  04 Jul 2022 11:53:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/04 13:33 CET";"2022/07/04 13:53 CET";"341";"15";"W14R12";;"VRESET";"140";"Trial run: VRESET sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_133332_eudaq_scan.h5 
+mpx2_run341_220704133345.raw"
+219;Mon  04 Jul 2022 11:33:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/04 13:12 CET";"2022/07/04 13:33 CET";"340";"15";"W14R12";;"VRESET";"120";"Trial run: VRESET sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_131252_eudaq_scan.h5 
+mpx2_run340_220704131304.raw"
+218;Mon  04 Jul 2022 11:12:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/04 12:52 CET";"2022/07/04 13:12 CET";"339";"15";"W14R12";;"VRESET";"100";"Trial run: VRESET sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_125210_eudaq_scan.h5 
+mpx2_run339_220704125226.raw"
+217;Mon  04 Jul 2022 10:38:43 +0000;"Marike Schwickardi";"Config change (install 1.2x1.8cm2 collimator) ";"ConfigID";"other";;;"338";"15";;;;;"High Row HV settings for measurement plan pilot, DUT Only
+
+Config ID: 15
+Beam Energy:4
+Collimator:12*18
+Telescope Config File:geoid15.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+216;Mon  04 Jul 2022 10:33:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 11:30 CET";"2022/07/04 12:33 CET";"337";"14";"W14R12";;;;"Run: Long run, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_113022_eudaq_scan.h5 
+mpx2_run337_220704113033.raw"
+215;Mon  04 Jul 2022 09:26:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 11:23 CET";"2022/07/04 11:26 CET";"336";"14";"W14R12";;;;"Alignment run for the HV frontend 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220704_112342_eudaq_scan.h5 
+mpx2_run336_220704112353.raw"
+214;Mon  04 Jul 2022 09:08:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 10:48 CET";"2022/07/04 11:08 CET";"335";"14";"W14R12";;"HV";"10";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_104821_eudaq_scan.h5 
+mpx2_run335_220704104833.raw"
+213;Mon  04 Jul 2022 08:48:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 10:27 CET";"2022/07/04 10:47 CET";"334";"14";"W14R12";;"HV";"9";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_102743_eudaq_scan.h5 
+mpx2_run334_220704102754.raw"
+212;Mon  04 Jul 2022 08:27:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 10:06 CET";"2022/07/04 10:26 CET";"333";"14";"W14R12";;"HV";"8";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_100607_eudaq_scan.h5 
+mpx2_run333_220704100619.raw"
+211;Mon  04 Jul 2022 08:05:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 09:45 CET";"2022/07/04 10:05 CET";"332";"14";"W14R12";;"HV";"7";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_094530_eudaq_scan.h5 
+mpx2_run332_220704094541.raw"
+210;Mon  04 Jul 2022 07:45:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 09:24 CET";"2022/07/04 09:45 CET";"331";"14";"W14R12";;"HV";"6";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_092452_eudaq_scan.h5 
+mpx2_run331_220704092503.raw"
+209;Mon  04 Jul 2022 07:24:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/04 09:04 CET";"2022/07/04 09:24 CET";"330";"14";"W14R12";;"HV";"5";"Run: voltagescan, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_090404_eudaq_scan.h5 
+mpx2_run330_220704090416.raw"
+208;Mon  04 Jul 2022 07:24:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/04 08:22 CET";"2022/07/04 08:37 CET";"326";"14";"W14R12";;;;"Run: alignment, high row, HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220704_082245_eudaq_scan.h5 
+mpx2_run326_220704082257.raw"
+207;Mon  04 Jul 2022 06:11:19 +0000;"Benjamin Schwenker";"Config change (DUT only, High Row)";"ConfigID";"other";;;"326";"14";;;;;"High Row HV settings for measurement plan pilot, DUT Only
+
+Config ID: 14
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid14.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+206;Mon  04 Jul 2022 05:54:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 23:24 CET";"2022/07/04 07:54 CET";"325";"13";"W14R12";;;;"Pilot run (for measurement Plan): overnight HV run 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_232403_eudaq_scan.h5 
+mpx2_run325_220703232415.raw"
+205;Sun  03 Jul 2022 20:18:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 21:58 CET";"2022/07/03 22:18 CET";"324";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_215804_eudaq_scan.h5 
+mpx2_run324_220703215816.raw"
+204;Sun  03 Jul 2022 19:57:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 21:37 CET";"2022/07/03 21:57 CET";"323";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_213726_eudaq_scan.h5 
+mpx2_run323_220703213738.raw"
+203;Sun  03 Jul 2022 19:37:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 21:16 CET";"2022/07/03 21:37 CET";"322";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_211648_eudaq_scan.h5 
+mpx2_run322_220703211700.raw"
+202;Sun  03 Jul 2022 19:16:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 20:56 CET";"2022/07/03 21:16 CET";"321";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_205610_eudaq_scan.h5 
+mpx2_run321_220703205622.raw"
+201;Sun  03 Jul 2022 18:55:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 20:35 CET";"2022/07/03 20:55 CET";"320";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_203531_eudaq_scan.h5 
+mpx2_run320_220703203544.raw"
+200;Sun  03 Jul 2022 18:31:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 20:11 CET";"2022/07/03 20:31 CET";"317";"13";"W14R12";;;;"Pilot run (for measurement Plan): long (20 min) HV scan 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_201121_eudaq_scan.h5 
+mpx2_run317_220703201136.raw"
+199;Sun  03 Jul 2022 18:08:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 20:07 CET";"2022/07/03 20:08 CET";"314";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 6V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_200720_eudaq_scan.h5 
+mpx2_run314_220703200732.raw"
+198;Sun  03 Jul 2022 17:59:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:57 CET";"2022/07/03 19:59 CET";"312";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 6V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_195728_eudaq_scan.h5 
+mpx2_run312_220703195739.raw"
+197;Sun  03 Jul 2022 17:57:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:54 CET";"2022/07/03 19:57 CET";"311";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 6V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_195450_eudaq_scan.h5 
+mpx2_run311_220703195502.raw"
+196;Sun  03 Jul 2022 17:54:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:52 CET";"2022/07/03 19:54 CET";"310";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 6V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_195212_eudaq_scan.h5 
+mpx2_run310_220703195224.raw"
+195;Sun  03 Jul 2022 17:49:35 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:41 CET";"2022/07/03 19:49 CET";"309";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 6V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_194141_eudaq_scan.h5 
+mpx2_run309_220703194152.raw"
+194;Sun  03 Jul 2022 17:39:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:36 CET";"2022/07/03 19:39 CET";"308";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run with 2V HV 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_193608_eudaq_scan.h5 
+mpx2_run308_220703193620.raw"
+193;Sun  03 Jul 2022 17:35:21 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 19:28 CET";"2022/07/03 19:35 CET";"307";"13";"W14R12";;;;"Pilot run (for measurement Plan): short HV run, something strange is happening 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_192810_eudaq_scan.h5 
+mpx2_run307_220703192822.raw"
+192;Sun  03 Jul 2022 17:23:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 19:12 CET";"2022/07/03 19:22 CET";"305";"13";"W14R12";;"HV";"4";"Pilot run (for measurement Plan): test HV sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_191244_eudaq_scan.h5 
+mpx2_run305_220703191255.raw"
+191;Sun  03 Jul 2022 17:12:30 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 19:02 CET";"2022/07/03 19:12 CET";"304";"13";"W14R12";;"HV";"2";"Pilot run (for measurement Plan): test HV sweep 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_190206_eudaq_scan.h5 
+mpx2_run304_220703190217.raw"
+190;Sun  03 Jul 2022 16:58:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/03 18:51 CET";"2022/07/03 18:58 CET";"303";"13";"W14R12";;;;"Pilot run (for measurement Plan): alignment run 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220703_185150_eudaq_scan.h5 
+mpx2_run303_220703185222.raw"
+189;Sun  03 Jul 2022 16:46:05 +0000;"Benjamin Schwenker";"Config change";"ConfigID";"other";;;"303";"13";;;;;"High Row HV settings for measurement plan pilot
+
+Config ID: 13
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid13.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+188;Sun  03 Jul 2022 16:37:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 18:36 CET";"2022/07/03 18:37 CET";"302";"12";"W14R12";;"ITHR";"54";"Test elog upload again 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_183644_eudaq_scan.h5 
+mpx2_run302_220703183656.raw"
+187;Sun  03 Jul 2022 16:36:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 18:35 CET";"2022/07/03 18:36 CET";"301";"12";"W14R12";;"ITHR";"44";"Test elog upload again 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_183559_eudaq_scan.h5 
+mpx2_run301_220703183611.raw"
+186;Sun  03 Jul 2022 16:35:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 18:35 CET";"2022/07/03 18:35 CET";"300";"12";"W14R12";;"ITHR";"34";"Test elog upload again 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_183516_eudaq_scan.h5 
+mpx2_run300_220703183528.raw"
+185;Sun  03 Jul 2022 16:35:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 18:34 CET";"2022/07/03 18:34 CET";"299";"12";"W14R12";;"ITHR";"24";"Test elog upload again 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_183430_eudaq_scan.h5 
+mpx2_run299_220703183443.raw"
+184;Sun  03 Jul 2022 16:32:21 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 18:29 CET";"2022/07/03 18:32 CET";"298";"12";"W14R12";;"ITHR";"24";"Not important - we had repeat scan on
+
+Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_182911_eudaq_scan.h5 
+mpx2_run298_220703182923.raw"
+183;Sun  03 Jul 2022 16:28:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 18:18 CET";"2022/07/03 18:28 CET";"297";"12";"W14R12";;"IDB";"100";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_181835_eudaq_scan.h5 
+mpx2_run297_220703181846.raw"
+182;Sun  03 Jul 2022 16:18:19 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 18:07 CET";"2022/07/03 18:18 CET";"296";"12";"W14R12";;"IDB";"100";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_180755_eudaq_scan.h5 
+mpx2_run296_220703180807.raw"
+181;Sun  03 Jul 2022 16:07:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:57 CET";"2022/07/03 18:07 CET";"295";"12";"W14R12";;"IDB";"100";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_175715_eudaq_scan.h5 
+mpx2_run295_220703175727.raw"
+180;Sun  03 Jul 2022 15:57:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:46 CET";"2022/07/03 17:56 CET";"294";"12";"W14R12";;"IDB";"90";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_174637_eudaq_scan.h5 
+mpx2_run294_220703174649.raw"
+179;Sun  03 Jul 2022 15:46:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:36 CET";"2022/07/03 17:46 CET";"293";"12";"W14R12";;"VRESET";"160";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_173600_eudaq_scan.h5 
+mpx2_run293_220703173611.raw"
+178;Sun  03 Jul 2022 15:35:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:25 CET";"2022/07/03 17:35 CET";"292";"12";"W14R12";;"VRESET";"140";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_172522_eudaq_scan.h5 
+mpx2_run292_220703172534.raw"
+177;Sun  03 Jul 2022 15:25:10 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:14 CET";"2022/07/03 17:25 CET";"291";"12";"W14R12";;"VRESET";"120";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_171445_eudaq_scan.h5 
+mpx2_run291_220703171456.raw"
+176;Sun  03 Jul 2022 15:14:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 17:04 CET";"2022/07/03 17:14 CET";"290";"12";"W14R12";;"VRESET";"100";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_170408_eudaq_scan.h5 
+mpx2_run290_220703170419.raw"
+175;Sun  03 Jul 2022 15:03:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:53 CET";"2022/07/03 17:03 CET";"289";"12";"W14R12";;"VRESET";"80";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_165329_eudaq_scan.h5 
+mpx2_run289_220703165340.raw"
+174;Sun  03 Jul 2022 14:53:16 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:42 CET";"2022/07/03 16:53 CET";"288";"12";"W14R12";;"ITHR";"64";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_164251_eudaq_scan.h5 
+mpx2_run288_220703164302.raw"
+173;Sun  03 Jul 2022 14:42:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:32 CET";"2022/07/03 16:42 CET";"287";"12";"W14R12";;"ITHR";"54";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_163213_eudaq_scan.h5 
+mpx2_run287_220703163225.raw"
+172;Sun  03 Jul 2022 14:32:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:21 CET";"2022/07/03 16:31 CET";"286";"12";"W14R12";;"ITHR";"44";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_162135_eudaq_scan.h5 
+mpx2_run286_220703162146.raw"
+171;Sun  03 Jul 2022 14:21:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:10 CET";"2022/07/03 16:21 CET";"285";"12";"W14R12";;"ITHR";"34";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_161058_eudaq_scan.h5 
+mpx2_run285_220703161110.raw"
+170;Sun  03 Jul 2022 14:10:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/03 16:00 CET";"2022/07/03 16:10 CET";"284";"12";"W14R12";;"ITHR";"24";"Pilot run (for measurement Plan): Scan with the production setup 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_160020_eudaq_scan.h5 
+mpx2_run284_220703160033.raw"
+169;Sun  03 Jul 2022 13:52:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 15:47 CET";"2022/07/03 15:52 CET";"283";"12";"W14R12";;"PSUB/PWELL";"5";"Test PSUB/PWELL voltage scan, 5 to 1 volt in -1 volt steps 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_154729_eudaq_scan.h5 
+mpx2_run283_220703154741.raw"
+168;Sun  03 Jul 2022 13:44:15 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 15:38 CET";"2022/07/03 15:44 CET";"282";"12";"W14R12";;"PSUB/PWELL";"4";"Test PSUB/PWELL voltage scan, 5 to 1 volt in -1 volt steps 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_153851_eudaq_scan.h5 
+mpx2_run282_220703153902.raw"
+167;Sun  03 Jul 2022 13:38:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 15:33 CET";"2022/07/03 15:38 CET";"281";"12";"W14R12";;"PSUB/PWELL";"3";"Test PSUB/PWELL voltage scan, 5 to 1 volt in -1 volt steps 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_153313_eudaq_scan.h5 
+mpx2_run281_220703153325.raw"
+166;Sun  03 Jul 2022 13:33:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 15:27 CET";"2022/07/03 15:32 CET";"280";"12";"W14R12";;"PSUB/PWELL";"2";"Test PSUB/PWELL voltage scan, 5 to 1 volt in -1 volt steps 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_152735_eudaq_scan.h5 
+mpx2_run280_220703152747.raw"
+165;Sun  03 Jul 2022 13:27:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"VoltageScan";"2022/07/03 15:21 CET";"2022/07/03 15:27 CET";"279";"12";"W14R12";;"PSUB/PWELL";"1";"Test PSUB/PWELL voltage scan, 5 to 1 volt in -1 volt steps 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_152154_eudaq_scan.h5 
+mpx2_run279_220703152209.raw"
+164;Sun  03 Jul 2022 12:59:13 +0000;"Marike Schwickardi";"Efficiency analysis ""fix""";"General";"other";"03.07.2022";;;;;;;;"We managed to get the efficiency from ~75% -> 99.3384(+0.0351626 -0.0370685)%
+by changing the logic of the eudaq-event building in the monopix2-producer in the following way:
+
+D ... data word, Tx ... Trigger word, |<-x->| ... EUDAQ event with trigger number x
+
+*VARIANT_old:
+
+	 Data from FIFO eg:
+	 D D D T0 D D D D T1 D D D D D T2 D D D T3 D D D D
+	       |<---0--->||<----1---->||<--2-->||<-------... (store for next execution)
+ 
+ *VARIANT_new:
+	  D D D T0 D D D D T1 D D D D D T2 D D D T3 D D D D
+		|<----------0---------->|
+		           |<--------1--------->|
+		                        |<---------------------... next execution ...
+
+So basically we assign each hit to 2 triggerNumbers.
+
+
+ADDITIONALLY the triggerNumber of the monopix2 had to be shifted by +1 relative to the telescope planes (done offline in Corryvreckan)
+This might be due to a static offset in the setup (eg. starting to count at 0 or 1)...
+
+
+Author: Bernhard"
+163;Sun  03 Jul 2022 12:56:42 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 14:54 CET";"2022/07/03 14:56 CET";"278";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_145428_eudaq_scan.h5 
+mpx2_run278_220703145439.raw"
+162;Sun  03 Jul 2022 12:46:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 14:42 CET";"2022/07/03 14:45 CET";"277";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_144209_eudaq_scan.h5 
+mpx2_run277_220703144221.raw"
+161;Sun  03 Jul 2022 12:39:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 14:11 CET";"2022/07/03 14:39 CET";"276";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_141142_eudaq_scan.h5 
+mpx2_run276_220703141154.raw"
+160;Sun  03 Jul 2022 11:59:50 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 13:57 CET";"2022/07/03 13:59 CET";"275";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_135738_eudaq_scan.h5 
+mpx2_run275_220703135749.raw"
+159;Sun  03 Jul 2022 11:54:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 13:54 CET";"2022/07/03 13:54 CET";"274";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_135414_eudaq_scan.h5 
+mpx2_run274_220703135426.raw"
+158;Sun  03 Jul 2022 11:52:21 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 13:50 CET";"2022/07/03 13:52 CET";"273";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_135058_eudaq_scan.h5 
+mpx2_run273_220703135110.raw"
+157;Sun  03 Jul 2022 10:00:52 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/03 12:00 CET";"2022/07/03 12:00 CET";"272";"12";"W14R12";;;;"Test assignment of hits to 2 trigger 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220703_120008_eudaq_scan.h5 
+mpx2_run272_220703120021.raw"
+156;Sun  03 Jul 2022 06:43:43 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 16:32 CET";"2022/07/03 08:43 CET";"251";"12";"W14R12";;;;"Pilot run (for measurement Plan): test run normal FE high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_163212_eudaq_scan.h5 
+mpx2_run251_220702163225.raw"
+155;Sat  02 Jul 2022 14:31:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 16:19 CET";"2022/07/02 16:31 CET";"250";"12";"W14R12";;;;"Pilot run (for measurement Plan): test run normal FE high row 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_161908_eudaq_scan.h5 
+mpx2_run250_220702161920.raw"
+154;Sat  02 Jul 2022 14:16:00 +0000;"Marike Schwickardi";"Config change";"ConfigID";;"02/07/2022 16:15";;"250";"12";;;;;"High Row settings for normal  measurement plan pilot
+
+Config ID: 12
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid12.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+153;Sat  02 Jul 2022 14:10:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 15:39 CET";"2022/07/02 16:10 CET";"249";"11";"W14R12";;;;"Pilot run (for measurement Plan): test run HV/HV casc FE, high row (around 200 to 512) 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220702_153959_eudaq_scan.h5 
+mpx2_run249_220702154011.raw"
+152;Sat  02 Jul 2022 13:39:20 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 15:35 CET";"2022/07/02 15:39 CET";"248";"11";"W14R12";;;;"Pilot run (for measurement Plan): test run normal FE for alignment of HV/HV casc FE, high row (around 200 to 512) 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_153543_eudaq_scan.h5 
+mpx2_run248_220702153556.raw"
+151;Sat  02 Jul 2022 13:35:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 15:32 CET";"2022/07/02 15:34 CET";"247";"11";"W14R12";;;;"Pilot run (for measurement Plan): test run HV/HV casc FE, high row (around 200 to 512) 
+eudaq_scan with W14R12 
+Pixels: 448:512 --> Frontends: HV FE Casc, HV FE 
+20220702_153201_eudaq_scan.h5 
+mpx2_run247_220702153215.raw"
+150;Sat  02 Jul 2022 13:31:54 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"02/07/2022 15:51";;"247";"11";;;;;"High Row settings for HV  measurement plan pilot
+
+Config ID: 11
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoid10.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =56.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+149;Sat  02 Jul 2022 12:40:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 14:10 CET";"2022/07/02 14:40 CET";"246";"9";"W14R12";;;;"Pilot run (for measurement Plan): long run HV/HV casc FE, high row (around 200 to 512) 
+eudaq_scan with W14R12 
+Pixels: 481:512 --> Frontends: HV FE 
+20220702_141001_eudaq_scan.h5 
+mpx2_run246_220702141015.raw"
+148;Sat  02 Jul 2022 12:12:01 +0000;"Benjamin Schwenker";"Desy TB 2022 Run";"Run";"Beam";;;"245";"10";;;;;"Long run normal FE/casc high row (around 200 to 512)"
+147;Sat  02 Jul 2022 10:28:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 12:23 CET";"2022/07/02 12:28 CET";"244";"10";"W14R12";;;;"Pilot run (for measurement Plan): test run normal/casc FE, high row (around 200 to 512) 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_122344_eudaq_scan.h5 
+mpx2_run244_220702122431.raw"
+146;Sat  02 Jul 2022 10:19:34 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"02/07/2022 12:19";;"244";"10";;;;;"High Row settings for measurement plan pilot
+
+Config ID: 10
+Beam Energy:4
+Collimator:12*18 (long side horizontal)
+Telescope Config File:geoid10.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =202
+phi = -4.0006
+type = Cz
+thickness = 300um"
+145;Sat  02 Jul 2022 10:10:29 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 11:35 CET";"2022/07/02 12:10 CET";"243";"9";"W14R12";;;;"Pilot run (for measurement Plan): long run HV/HV casc FE, low row (0 to around 300) 
+eudaq_scan with W14R12 
+Pixels: 481:512 --> Frontends: HV FE 
+20220702_113517_eudaq_scan.h5 
+mpx2_run243_220702113529.raw"
+144;Sat  02 Jul 2022 09:27:18 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 10:55 CET";"2022/07/02 11:27 CET";"242";"9";"W14R12";;;;"Pilot run (for measurement Plan): long run normal/casc FE, low row (0 to around 300) 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_105545_eudaq_scan.h5 
+mpx2_run242_220702105557.raw"
+143;Sat  02 Jul 2022 08:37:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/02 10:36 CET";"2022/07/02 10:37 CET";"241";"9";"W14R12";;;;"Pilot run (for measurement Plan): alignment test normal/casc FE, low row (0 to around 300) - second try if it uploads now 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_103639_eudaq_scan.h5 
+mpx2_run241_220702103651.raw"
+142;Sat  02 Jul 2022 08:29:18 +0000;"Benjamin Schwenker";"Desy TB 2022 Run";"Run";"Beam";;;"240";"9";;;;;"Pilot run (for measurement Plan): alignment test normal/casc FE, low row (0 to around 300)"
+141;Sat  02 Jul 2022 08:18:08 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"02/07/2022 10:18";;"240";"9";;;;;"Low Row settings for measurement plan pilot
+
+Config ID: 9
+Beam Energy:4
+Collimator:12*18 (long side horizontal)
+Telescope Config File:geoid9.geo
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =210
+phi = -4.0006
+type = Cz
+thickness = 300um"
+140;Sat  02 Jul 2022 07:47:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/02 09:39 CET";"2022/07/02 09:47 CET";"239";"8";"W14R12";;;;"Testing elog upload again 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220702_093922_eudaq_scan.h5 
+mpx2_run239_220702093936.raw"
+139;Sat  02 Jul 2022 07:29:54 +0000;"Benjamin Schwenker";" Desy TB 2022 Run ";"Run";"Beam";;;"238";"8";;;;;"Overnight run with big Collimator"
+138;Fri  01 Jul 2022 17:02:01 +0000;"Benjamin Schwenker";"Desy TB 2022 Run";"Run";"Beam";;;"236";"8";;;;;"New Collimator 12x18mm, long side horizontal, (600Hz Setting)"
+137;Fri  01 Jul 2022 16:55:27 +0000;"Benjamin Schwenker";"Efficiency inhomogeneity and triggerid-offset efficiency";"General";"other";;;;;;;;;"run no    trigger rate    efficiency     eff. with triggerid-offset
+228         300 Hz          75%             26%
+232         600 Hz          75%             26% 
+233         100 Hz          75%             27%
+235         1.5 kHz         68%             30%
+
+the efficiency is only to compare the measurements, not to be used as absolute value
+
+
+Run The trigger-id offset efficiency is the efficiency of the monopix when sending hits after the next trigger word. with the triggers shifted by one in respect to the trigger of the telescope. Therefore this should be zero, but is nonzero as some events of the monopix are late and therefore associated to the proceeding trigger id."
+136;Fri  01 Jul 2022 16:39:06 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"01/07/2022 18:39";;"236";"8";;;;;"JUST CHANGE COLLIMATOR NOT TELESCOPE GEOMETRY
+
+Config ID:8
+Beam Energy:4
+Collimator:12*18 (long side horizontal)
+Telescope Config File:geoid8
+Config ID:7
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =209
+phi = -4.0006
+type = Cz
+thickness = 300um"
+135;Fri  01 Jul 2022 16:29:51 +0000;"Benjamin Schwenker";" Desy TB 2022 Run";"Run";"Beam";;;"235";"7";;;;;"Efficiency study: 1500Hz Run(veto_length: 400)"
+134;Fri  01 Jul 2022 16:29:14 +0000;"Benjamin Schwenker";" Desy TB 2022 Run ";"Run";"Debug";;;"234";"7";;"bad";;;"Efficiency study: error run"
+133;Fri  01 Jul 2022 16:28:40 +0000;"Benjamin Schwenker";" Desy TB 2022 Run";"Run";"Beam";;;"233";"7";;;;;"Efficiency study: 100Hz Run(veto_length: 150000)"
+132;Fri  01 Jul 2022 15:46:00 +0000;"Benjamin Schwenker";"Desy TB 2022 Run";"Run";"Beam";;;"232";"7";;;;;"Efficiency study: 600Hz Run(veto_length: 25000)"
+131;Fri  01 Jul 2022 15:44:43 +0000;"Benjamin Schwenker";" Desy TB 2022 Run";"Run";"Debug";;;"231";"7";;"bad";;;"Failed run"
+130;Fri  01 Jul 2022 15:44:01 +0000;"Benjamin Schwenker";" Desy TB 2022 Run ";"Run";"Debug";;;"229";"7";;"bad";;;"Failed try"
+129;Fri  01 Jul 2022 15:39:51 +0000;"Benjamin Schwenker";"Desy TB 2022 Run";"Run";"Beam";;;"228";"7";;;;;"Efficiency study: 300Hz Run(veto_length: 50000)"
+121;Fri  01 Jul 2022 13:49:47 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:49 CET";"2022/07/01 15:49 CET";"217";"7";"W14R12";;"ITHR";"25";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154920_eudaq_scan.h5 
+mpx2_run217_220701154933.raw"
+120;Fri  01 Jul 2022 13:47:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:47 CET";"2022/07/01 15:47 CET";"216";"7";"W14R12";;"ITHR";"35";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154700_eudaq_scan.h5 
+mpx2_run216_220701154712.raw"
+119;Fri  01 Jul 2022 13:46:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:45 CET";"2022/07/01 15:45 CET";"214";"7";"W14R12";;"ITHR";"25";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154531_eudaq_scan.h5 
+mpx2_run214_220701154546.raw"
+118;Fri  01 Jul 2022 13:43:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:43 CET";"2022/07/01 15:43 CET";"213";"7";"W14R12";;"IDB";"100";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154313_eudaq_scan.h5 
+mpx2_run213_220701154324.raw"
+117;Fri  01 Jul 2022 13:42:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:42 CET";"2022/07/01 15:42 CET";"212";"7";"W14R12";;"IDB";"95";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154231_eudaq_scan.h5 
+mpx2_run212_220701154242.raw"
+116;Fri  01 Jul 2022 13:42:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:41 CET";"2022/07/01 15:42 CET";"211";"7";"W14R12";;"IDB";"90";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154148_eudaq_scan.h5 
+mpx2_run211_220701154159.raw"
+115;Fri  01 Jul 2022 13:41:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:41 CET";"2022/07/01 15:41 CET";"210";"7";"W14R12";;"IBIAS";"50";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154106_eudaq_scan.h5 
+mpx2_run210_220701154118.raw"
+114;Fri  01 Jul 2022 13:40:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:40 CET";"2022/07/01 15:40 CET";"209";"7";"W14R12";;"IBIAS";"45";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_154025_eudaq_scan.h5 
+mpx2_run209_220701154036.raw"
+113;Fri  01 Jul 2022 13:40:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:39 CET";"2022/07/01 15:40 CET";"208";"7";"W14R12";;"IBIAS";"40";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153943_eudaq_scan.h5 
+mpx2_run208_220701153955.raw"
+112;Fri  01 Jul 2022 13:39:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:39 CET";"2022/07/01 15:39 CET";"207";"7";"W14R12";;"IBIAS";"35";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153901_eudaq_scan.h5 
+mpx2_run207_220701153913.raw"
+111;Fri  01 Jul 2022 13:38:45 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:38 CET";"2022/07/01 15:38 CET";"206";"7";"W14R12";;"IBIAS";"30";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153818_eudaq_scan.h5 
+mpx2_run206_220701153830.raw"
+110;Fri  01 Jul 2022 13:38:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:37 CET";"2022/07/01 15:37 CET";"205";"7";"W14R12";;"IBIAS";"25";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153733_eudaq_scan.h5 
+mpx2_run205_220701153745.raw"
+109;Fri  01 Jul 2022 13:37:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:36 CET";"2022/07/01 15:37 CET";"204";"7";"W14R12";;"IBIAS";"20";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153651_eudaq_scan.h5 
+mpx2_run204_220701153702.raw"
+108;Fri  01 Jul 2022 13:36:34 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:36 CET";"2022/07/01 15:36 CET";"203";"7";"W14R12";;"VRESET";"165";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153608_eudaq_scan.h5 
+mpx2_run203_220701153620.raw"
+107;Fri  01 Jul 2022 13:35:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:35 CET";"2022/07/01 15:35 CET";"202";"7";"W14R12";;"VRESET";"150";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153525_eudaq_scan.h5 
+mpx2_run202_220701153537.raw"
+106;Fri  01 Jul 2022 13:35:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:34 CET";"2022/07/01 15:35 CET";"201";"7";"W14R12";;"VRESET";"135";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153443_eudaq_scan.h5 
+mpx2_run201_220701153455.raw"
+105;Fri  01 Jul 2022 13:34:28 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:34 CET";"2022/07/01 15:34 CET";"200";"7";"W14R12";;"VRESET";"120";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153401_eudaq_scan.h5 
+mpx2_run200_220701153413.raw"
+104;Fri  01 Jul 2022 13:33:46 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:33 CET";"2022/07/01 15:33 CET";"199";"7";"W14R12";;"VRESET";"105";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153320_eudaq_scan.h5 
+mpx2_run199_220701153331.raw"
+103;Fri  01 Jul 2022 13:33:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:32 CET";"2022/07/01 15:32 CET";"198";"7";"W14R12";;"VRESET";"90";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153237_eudaq_scan.h5 
+mpx2_run198_220701153249.raw"
+102;Fri  01 Jul 2022 13:32:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:31 CET";"2022/07/01 15:32 CET";"197";"7";"W14R12";;"VRESET";"75";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153156_eudaq_scan.h5 
+mpx2_run197_220701153208.raw"
+101;Fri  01 Jul 2022 13:31:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:31 CET";"2022/07/01 15:31 CET";"196";"7";"W14R12";;"ITHR";"55";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_153113_eudaq_scan.h5 
+mpx2_run196_220701153125.raw"
+100;Fri  01 Jul 2022 13:30:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:29 CET";"2022/07/01 15:30 CET";"194";"7";"W14R12";;"ITHR";"45";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152947_eudaq_scan.h5 
+mpx2_run194_220701152959.raw"
+99;Fri  01 Jul 2022 13:29:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:29 CET";"2022/07/01 15:29 CET";"193";"7";"W14R12";;"ITHR";"40";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152905_eudaq_scan.h5 
+mpx2_run193_220701152917.raw"
+98;Fri  01 Jul 2022 13:28:48 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:28 CET";"2022/07/01 15:28 CET";"192";"7";"W14R12";;"ITHR";"35";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152822_eudaq_scan.h5 
+mpx2_run192_220701152834.raw"
+97;Fri  01 Jul 2022 13:28:06 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:27 CET";"2022/07/01 15:28 CET";"191";"7";"W14R12";;"ITHR";"30";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152740_eudaq_scan.h5 
+mpx2_run191_220701152752.raw"
+96;Fri  01 Jul 2022 13:27:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:26 CET";"2022/07/01 15:27 CET";"190";"7";"W14R12";;"ITHR";"25";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152656_eudaq_scan.h5 
+mpx2_run190_220701152711.raw"
+95;Fri  01 Jul 2022 13:25:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:25 CET";"2022/07/01 15:25 CET";"189";"7";"W14R12";;"ITHR";"40";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152527_eudaq_scan.h5 
+mpx2_run189_220701152539.raw"
+94;Fri  01 Jul 2022 13:25:08 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:24 CET";"2022/07/01 15:25 CET";"188";"7";"W14R12";;"ITHR";"35";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152441_eudaq_scan.h5 
+mpx2_run188_220701152453.raw"
+93;Fri  01 Jul 2022 13:24:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:23 CET";"2022/07/01 15:24 CET";"187";"7";"W14R12";;"ITHR";"30";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152356_eudaq_scan.h5 
+mpx2_run187_220701152408.raw"
+92;Fri  01 Jul 2022 13:23:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 15:23 CET";"2022/07/01 15:23 CET";"186";"7";"W14R12";;"ITHR";"25";"A bit of debugging again, against occasional power supply hangs 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_152310_eudaq_scan.h5 
+mpx2_run186_220701152322.raw"
+91;Fri  01 Jul 2022 13:10:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/01 15:03 CET";"2022/07/01 15:09 CET";"185";"7";"W14R12";;"ITHR";"35";"First try of a register scan - let's see if that works... 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_150318_eudaq_scan.h5 
+mpx2_run185_220701150331.raw"
+90;Fri  01 Jul 2022 13:03:03 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/01 14:56 CET";"2022/07/01 15:02 CET";"184";"7";"W14R12";;"ITHR";"30";"First try of a register scan - let's see if that works... 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_145640_eudaq_scan.h5 
+mpx2_run184_220701145653.raw"
+89;Fri  01 Jul 2022 12:56:27 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/07/01 14:50 CET";"2022/07/01 14:56 CET";"183";"7";"W14R12";;"ITHR";"25";"First try of a register scan - let's see if that works... 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_145003_eudaq_scan.h5 
+mpx2_run183_220701145017.raw"
+88;Fri  01 Jul 2022 12:45:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:44 CET";"2022/07/01 14:45 CET";"182";"7";"W14R12";;"ITHR";"35";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_144440_eudaq_scan.h5 
+mpx2_run182_220701144453.raw"
+87;Fri  01 Jul 2022 12:44:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:43 CET";"2022/07/01 14:44 CET";"181";"7";"W14R12";;"ITHR";"30";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_144351_eudaq_scan.h5 
+mpx2_run181_220701144403.raw"
+86;Fri  01 Jul 2022 12:43:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:43 CET";"2022/07/01 14:43 CET";"180";"7";"W14R12";;"ITHR";"25";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_144301_eudaq_scan.h5 
+mpx2_run180_220701144314.raw"
+85;Fri  01 Jul 2022 12:33:13 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:32 CET";"2022/07/01 14:33 CET";"179";"7";"W14R12";;"ITHR";"64";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_143239_eudaq_scan.h5 
+mpx2_run179_220701143252.raw"
+84;Fri  01 Jul 2022 12:32:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:31 CET";"2022/07/01 14:32 CET";"178";"7";"W14R12";;"ITHR";"64";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_143147_eudaq_scan.h5 
+mpx2_run178_220701143159.raw"
+83;Fri  01 Jul 2022 12:31:31 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:30 CET";"2022/07/01 14:31 CET";"177";"7";"W14R12";;"ITHR";"64";"Testing automatic elog upload with spaces together with scans 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_143057_eudaq_scan.h5 
+mpx2_run177_220701143110.raw"
+82;Fri  01 Jul 2022 12:29:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 14:29 CET";"2022/07/01 14:29 CET";"176";"7";"W14R12";;;;"Testing_automatic_elog_upload 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_142921_eudaq_scan.h5 
+mpx2_run176_220701142933.raw"
+81;Fri  01 Jul 2022 12:26:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/07/01 13:47 CET";"2022/07/01 14:25 CET";"175";"7";"W14R12";;;;"First longer run with moved desy stage to get beamspot more cenetered 
+
+
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_134751_eudaq_scan.h5 
+mpx2_run175_220701134804.raw"
+80;Fri  01 Jul 2022 11:43:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 13:41 CET";"2022/07/01 13:42 CET";"174";"7";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_134120_eudaq_scan.h5 
+mpx2_run174_220701134132.raw
+
+
+First run after intervention, ConfID changed to 7 manually (CI)"
+79;Fri  01 Jul 2022 11:27:04 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"01/07/2022 13:26";;;"7";;;;;"Config ID:7
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:
+
+Geometry:
+plane z
+===============
+MIM26 0 =0
+MIM26 1 =3,5cm
+MIM26 2 =7cm
+TJMP2 3 =10,05cm
+MIM26 4 =11,9cm
+MIM26 5 =15,3cm
+FEI4 6 = -
+MIM26 7 =18,8cm
+
+TJ Monopix2:
+x =46.5
+y =209
+phi = -4.0006
+type = Cz
+thickness = 300um
+
+moving telescope stage over all to find middle beam spot in telescope
+iny from -1,6 to -3,8
+
+NO ANALYSIS planed
+
+Exchanged cover of TJ-MP2 chip, removed Al frame on backside of red DESY DUT support and replaced spacers with shorter ones. This allowed to bring the Mimosa planes closer to the TJ-MP2.
+The new cover is made from a paper cup ring and Al foil, the Al foil is connected to GND."
+78;Fri  01 Jul 2022 10:32:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:32 CET";"2022/07/01 12:32 CET";"173";"6";"W14R12";;"IDB";"100";" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_123206_eudaq_scan.h5 
+mpx2_run173_220701123233.raw"
+77;Fri  01 Jul 2022 10:31:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:31 CET";"2022/07/01 12:31 CET";"172";"6";"W14R12";;"IDB";"100";" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_123119_eudaq_scan.h5 
+telescope_run172_220701123145.raw"
+76;Fri  01 Jul 2022 10:24:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:23 CET";"2022/07/01 12:24 CET";"165";"6";"W14R12";;"IDB";"100";" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_122350_eudaq_scan.h5 
+mpx2_run165_220701121742.raw"
+75;Fri  01 Jul 2022 10:18:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:18 CET";"2022/07/01 12:18 CET";"165";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_121804_eudaq_scan.h5 
+mpx2_run165_220701121742.raw"
+74;Fri  01 Jul 2022 10:17:49 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:17 CET";"2022/07/01 12:17 CET";"165";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_121717_eudaq_scan.h5 
+telescope_run165_220701121735.raw"
+73;Fri  01 Jul 2022 10:11:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:10 CET";"2022/07/01 12:10 CET";"163";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_121033_eudaq_scan.h5 
+mpx2_run163_220701121058.raw"
+72;Fri  01 Jul 2022 10:10:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:09 CET";"2022/07/01 12:10 CET";"162";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_120942_eudaq_scan.h5 
+telescope_run162_220701120958.raw"
+71;Fri  01 Jul 2022 10:06:02 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:05 CET";"2022/07/01 12:05 CET";"161";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_120530_eudaq_scan.h5 
+mpx2_run161_220701120555.raw"
+70;Fri  01 Jul 2022 10:05:19 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 12:04 CET";"2022/07/01 12:05 CET";"160";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_120445_eudaq_scan.h5 
+telescope_run160_220701120507.raw"
+69;Fri  01 Jul 2022 09:48:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:48 CET";"2022/07/01 11:48 CET";"158";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_114823_eudaq_scan.h5 
+mpx2_run158_220701114849.raw"
+68;Fri  01 Jul 2022 09:48:09 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:47 CET";"2022/07/01 11:48 CET";"155";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_114737_eudaq_scan.h5 
+mpx2_run155_220701114718.raw"
+67;Fri  01 Jul 2022 09:47:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:46 CET";"2022/07/01 11:47 CET";"155";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_114652_eudaq_scan.h5 
+mpx2_run155_220701114718.raw"
+66;Fri  01 Jul 2022 09:46:41 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:46 CET";"2022/07/01 11:46 CET";"154";"6";"W14R12";;;;" 
+eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_114606_eudaq_scan.h5 
+telescope_run154_220701114621.raw"
+65;Fri  01 Jul 2022 09:26:15 +0000;"Marike Schwickardi";"Efficiency analysis observations";"General";"other";"31.06.2022";"02.07.2022";;;;;;;"We are seeing pixel efficiencies we'd not expect.
+In Run071 we analyzed an overnight run O(10^7) events (good statistics)
+  -  in the region of column ~190 we get efficiencies of up to 95% with little fluctuations
+  -  in the upper columns there are also pixel with high efficiencies, but there's more ""noise""
+  - in between clearly a gradient appears
+  - looking at the hitmap this behaviour doesn't seem to be related to the beam spot
+
+To investigate this further we reduced the ""effective trigger-rate"" by enlargening the TLU-veto from the BDAQ-board
+
+In Run087 a trigger-veto of 60000 * 25ns ~ 1500 us is applied (rate reduced from 1.6 kHz -> 300 Hz)
+  - the previously seen gradient is no longer observed
+  - the regions with a high homogeneous efficiency are also no longer observed (this might be related to worse statistics)
+
+
+Summary:
+* Beam Spot does not seem to influence efficiency-maps
+* Beam Rate clearly does influence the efficiency-maps
+
+The ""lost efficiency"" might be due to the not ideal association of TJMonopix2 data to TLU triggerNmbs.
+
+When (during analysis) shifting the triggerNmbs of the Monopix by +1 we still get some (much less than without a shift) valid tracks and efficiency maps with an ""inversed"" gradient."
+64;Fri  01 Jul 2022 09:09:26 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:07 CET";"2022/07/01 11:09 CET";"127";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_110702_eudaq_scan.h5 
+mpx2_run127_220701110714.raw"
+63;Fri  01 Jul 2022 09:06:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:04 CET";"2022/07/01 11:06 CET";"126";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_110427_eudaq_scan.h5 
+mpx2_run126_220701110439.raw"
+62;Fri  01 Jul 2022 09:04:15 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 11:01 CET";"2022/07/01 11:04 CET";"125";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_110151_eudaq_scan.h5 
+mpx2_run125_220701110204.raw"
+61;Fri  01 Jul 2022 09:01:37 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:59 CET";"2022/07/01 11:01 CET";"124";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_105913_eudaq_scan.h5 
+mpx2_run124_220701105926.raw"
+60;Fri  01 Jul 2022 08:58:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:56 CET";"2022/07/01 10:58 CET";"123";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_105632_eudaq_scan.h5 
+mpx2_run123_220701105644.raw"
+59;Fri  01 Jul 2022 08:56:20 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:53 CET";"2022/07/01 10:56 CET";"122";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_105355_eudaq_scan.h5 
+mpx2_run122_220701105408.raw"
+58;Fri  01 Jul 2022 08:53:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:51 CET";"2022/07/01 10:53 CET";"121";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_105116_eudaq_scan.h5 
+mpx2_run121_220701105129.raw"
+57;Fri  01 Jul 2022 08:51:01 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:48 CET";"2022/07/01 10:50 CET";"120";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_104837_eudaq_scan.h5 
+mpx2_run120_220701104850.raw"
+56;Fri  01 Jul 2022 08:48:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:45 CET";"2022/07/01 10:48 CET";"119";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_104559_eudaq_scan.h5 
+mpx2_run119_220701104611.raw"
+55;Fri  01 Jul 2022 08:45:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:43 CET";"2022/07/01 10:45 CET";"118";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_104320_eudaq_scan.h5 
+mpx2_run118_220701104333.raw"
+54;Fri  01 Jul 2022 08:43:08 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:40 CET";"2022/07/01 10:43 CET";"117";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_104045_eudaq_scan.h5 
+mpx2_run117_220701104057.raw"
+53;Fri  01 Jul 2022 08:30:28 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:23 CET";"2022/07/01 10:30 CET";"115";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 481:512 --> Frontends: HV FE 
+20220701_102306_eudaq_scan.h5 
+mpx2_run115_220701102319.raw"
+52;Fri  01 Jul 2022 08:22:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:14 CET";"2022/07/01 10:22 CET";"114";"6";"W14R12";"good";;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_101453_eudaq_scan.h5 
+mpx2_run114_220701101506.raw"
+51;Fri  01 Jul 2022 08:09:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:07 CET";"2022/07/01 10:09 CET";"113";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 481:512 --> Frontends: HV FE 
+20220701_100708_eudaq_scan.h5 
+mpx2_run113_220701100721.raw"
+50;Fri  01 Jul 2022 08:04:00 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 10:02 CET";"2022/07/01 10:03 CET";"112";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 481:512 --> Frontends: HV FE 
+20220701_100200_eudaq_scan.h5 
+mpx2_run112_220701100211.raw"
+49;Fri  01 Jul 2022 08:01:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 09:55 CET";"2022/07/01 10:01 CET";"111";"6";"W14R12";"bad";;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_095535_eudaq_scan.h5 
+mpx2_run111_220701095548.raw"
+48;Fri  01 Jul 2022 07:49:02 +0000;"Benjamin Schwenker";"FIxed config files with default register settings";"General";"other";;;;;;;;
+47;Thu  30 Jun 2022 22:24:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 00:14 CET";"2022/07/01 00:24 CET";"109";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_001408_eudaq_scan.h5 
+mpx2_run109_220701001421.raw"
+46;Thu  30 Jun 2022 22:13:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/07/01 00:03 CET";"2022/07/01 00:13 CET";"108";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220701_000329_eudaq_scan.h5 
+mpx2_run108_220701000342.raw"
+45;Thu  30 Jun 2022 22:03:17 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 23:52 CET";"2022/07/01 00:03 CET";"107";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_235253_eudaq_scan.h5 
+mpx2_run107_220630235306.raw"
+44;Thu  30 Jun 2022 21:44:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 23:44 CET";"2022/06/30 23:44 CET";"106";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_234413_eudaq_scan.h5 
+mpx2_run106_220630234426.raw"
+43;Thu  30 Jun 2022 15:53:44 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:53 CET";"2022/06/30 17:53 CET";"104";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_175311_eudaq_scan.h5 
+mpx2_run104_220630175324.raw"
+42;Thu  30 Jun 2022 15:52:58 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:52 CET";"2022/06/30 17:52 CET";"103";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_175225_eudaq_scan.h5 
+mpx2_run103_220630175238.raw"
+41;Thu  30 Jun 2022 15:52:12 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:51 CET";"2022/06/30 17:52 CET";"102";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_175139_eudaq_scan.h5 
+mpx2_run102_220630175151.raw"
+40;Thu  30 Jun 2022 15:51:25 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:50 CET";"2022/06/30 17:51 CET";"101";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_175051_eudaq_scan.h5 
+mpx2_run101_220630175103.raw"
+39;Thu  30 Jun 2022 15:50:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:50 CET";"2022/06/30 17:50 CET";"100";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_175006_eudaq_scan.h5 
+mpx2_run100_220630175019.raw"
+38;Thu  30 Jun 2022 15:49:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:49 CET";"2022/06/30 17:49 CET";"099";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174920_eudaq_scan.h5 
+mpx2_run099_220630174932.raw"
+37;Thu  30 Jun 2022 15:49:08 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:48 CET";"2022/06/30 17:49 CET";"098";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174835_eudaq_scan.h5 
+mpx2_run098_220630174847.raw"
+36;Thu  30 Jun 2022 15:48:22 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:47 CET";"2022/06/30 17:48 CET";"097";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174749_eudaq_scan.h5 
+mpx2_run097_220630174802.raw"
+35;Thu  30 Jun 2022 15:47:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:47 CET";"2022/06/30 17:47 CET";"096";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174704_eudaq_scan.h5 
+mpx2_run096_220630174717.raw"
+34;Thu  30 Jun 2022 15:46:53 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:46 CET";"2022/06/30 17:46 CET";"095";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174620_eudaq_scan.h5 
+mpx2_run095_220630174632.raw"
+33;Thu  30 Jun 2022 15:46:07 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:45 CET";"2022/06/30 17:45 CET";"094";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174534_eudaq_scan.h5 
+mpx2_run094_220630174547.raw"
+32;Thu  30 Jun 2022 15:45:23 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:44 CET";"2022/06/30 17:45 CET";"093";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174450_eudaq_scan.h5 
+mpx2_run093_220630174503.raw"
+31;Thu  30 Jun 2022 15:44:39 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:44 CET";"2022/06/30 17:44 CET";"091";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174406_eudaq_scan.h5 
+mpx2_run091_220630174335.raw"
+30;Thu  30 Jun 2022 15:43:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:43 CET";"2022/06/30 17:43 CET";"091";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174322_eudaq_scan.h5 
+mpx2_run091_220630174335.raw"
+29;Thu  30 Jun 2022 15:43:10 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Debug";"2022/06/30 17:42 CET";"2022/06/30 17:42 CET";"090";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_174222_eudaq_scan.h5 
+mpx2_run090_220630174235.raw"
+28;Thu  30 Jun 2022 14:45:11 +0000;"Benjamin Schwenker";"Observed 8b/10b Error";"General";"other";;;;;;;;;"During long runs (eg 71 overnight), at some point this error messages appear with about 1Hz
+
+
+[3:14:23, ?/s]2022-06-30 16:39:33,710 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+2022-06-30 16:39:34,211 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+0 [3:14:24, ?/s]2022-06-30 16:39:34,711 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+2022-06-30 16:39:35,212 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+0 [3:14:25, ?/s]2022-06-30 16:39:35,713 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+2022-06-30 16:39:36,213 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])
+0 [3:14:26, ?/s]2022-06-30 16:39:36,714 [EudaqScan        ] - ERROR   ('RX 8b10b error(s) detected ', [11])"
+27;Thu  30 Jun 2022 14:44:53 +0000;"Benjamin Schwenker";"Observed 8b/10b Error";;;;;;;;;;
+26;Thu  30 Jun 2022 14:39:45 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 13:24 CET";"2022/06/30 16:39 CET";"087";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_132458_eudaq_scan.h5 
+mpx2_run087_220630132510.raw"
+25;Thu  30 Jun 2022 11:24:32 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/06/30 13:16 CET";"2022/06/30 13:24 CET";"086";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_131633_eudaq_scan.h5 
+mpx2_run086_220630131646.raw"
+24;Thu  30 Jun 2022 11:14:36 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 13:13 CET";"2022/06/30 13:14 CET";"085";"6";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_131328_eudaq_scan.h5 
+mpx2_run085_220630131428.raw"
+23;Thu  30 Jun 2022 11:07:27 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";"30.06.2022 13:11";;"85-";"6";;;;;"Config ID:6
+Beam Energy:4
+Collimator:5*5
+Telescope Config File:geoconfig6.cfg
+
+Geometry:
+plane z
+===============
+Geometry:
+  plane     z
+===============
+  MIM26 0 = 0
+  MIM26 1 = 3.5
+  MIM26 2 = 7
+  TJMP2 3 = 9.5
+  MIM26 4 = 12.5
+  MIM26 5 = 16
+   FEI4 6 = 19.7
+  MIM26 7 = 21.9
+        
+
+TJ Monopix2:
+x =46.5
+y =209
+phi = -4.0006
+type = Cz
+thickness = 300um
+
+Veto length = 50.000"
+22;Thu  30 Jun 2022 10:49:54 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 12:45 CET";"2022/06/30 12:49 CET";"084";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_124559_eudaq_scan.h5 
+mpx2_run084_220630124611.raw"
+21;Thu  30 Jun 2022 10:45:14 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 12:41 CET";"2022/06/30 12:45 CET";"083";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_124153_eudaq_scan.h5 
+mpx2_run083_220630124206.raw"
+20;Thu  30 Jun 2022 10:27:51 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 12:27 CET";"2022/06/30 12:27 CET";"082";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_122718_eudaq_scan.h5 
+telescope_run082_220630122736.raw"
+19;Thu  30 Jun 2022 10:26:57 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 12:26 CET";"2022/06/30 12:26 CET";"080";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_122623_eudaq_scan.h5 
+telescope_run080_220630122351.raw"
+18;Thu  30 Jun 2022 10:18:55 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 12:18 CET";"2022/06/30 12:18 CET";"078";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_121806_eudaq_scan.h5 
+telescope_run078_220630121837.raw"
+17;Thu  30 Jun 2022 09:57:56 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 11:57 CET";"2022/06/30 11:57 CET";"077";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_115715_eudaq_scan.h5 
+mpx2_run077_220630115748.raw"
+16;Thu  30 Jun 2022 09:57:05 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 11:56 CET";"2022/06/30 11:56 CET";"076";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_115639_eudaq_scan.h5 
+telescope_run076_220630113737.raw"
+15;Thu  30 Jun 2022 09:36:38 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Beam";"2022/06/30 11:35 CET";"2022/06/30 11:36 CET";"075";"5";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220630_113557_eudaq_scan.h5 
+mpx2_run075_220630113630.raw"
+12;Thu  30 Jun 2022 07:44:46 +0000;"Marike Schwickardi";"Config change and Run No reset";"ConfigID";;;;"0-84";"5";;;;;"Run geometry not changed from geoid4 but run number reseted
+Config ID: 4
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File: geoid4.geo
+
+Geometry:
+plane     z
+===============
+MIM26 0 = 0
+MIM26 1 = 3.5
+MIM26 2 = 7
+TJMP2 3 = 9.5
+MIM26 4 = 12.5
+MIM26 5 = 16
+FEI4 6 = 19.7
+MIM26 7 = 21.9
+        
+TJ Monopix2:
+x = 46.5
+y =204.0 
+phi = -4
+type = Cz
+thickness = 300um   
+
+Runs: 0-84"
+11;Thu  30 Jun 2022 07:15:04 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/06/29 23:43";"2022/06/30 09:14 CET";"71";"4";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220629_234355_eudaq_scan.h5 
+telescope_run4697_220629095734.raw"
+10;Wed  29 Jun 2022 21:43:40 +0000;"Testbeam Crew";"Desy TB 2022 Run";"Run";"Scan";"2022/06/29 23:43";"2022/06/29 23:43 CET";;"4";"W14R12";;;;"eudaq_scan with W14R12 
+Pixels: 0:448 --> Frontends: Normal FE, Normal FE Casc 
+20220629_234315_eudaq_scan.h5 
+telescope_run4697_220629095734.raw"
+9;Wed  29 Jun 2022 20:19:03 +0000;"Christian Irmler";"Available TJ-MP2 modules";"General";;;;;;;;;;"Module    Material     Thickness [um]     Institute    Comment
+=================================================================================
+W05R18    30um EPI     300                CPPM
+W14R12    Cz           300                Göttingen
+W08R03    30um EPI     unknown            HEPHY        HV front-end working only
+W05R09    30um EPI     300                Bonn
+  "
+8;Wed  29 Jun 2022 13:07:31 +0000;"Christian Irmler";"Grounding scheme";"General";;;;;;;;;;"Grounding scheme of setup in TB22
+
+The TJ-MP2 setup is floating wrt. the telescope. 
+The telescope itself and its frame are isolated from the ""DESY table"" and thus floating wrt. to earth. No information about grounding scheme 
+of telescope readout.
+
+All channels of the used HAMEG power supply are floating and thus isolated to each other.
+Ch2-4 are used for the TJ-MP2 board. On the TJMP2 board all GNDs are connected, but isolated from earth (chassis GND).
+The bdaq53 board is powered by ch1 of the same HAMEG.
+The TLU chassis is connected to earth. The TLU is connected with the bdaq53 by a custom cable. This cable unfortunately connects GND with 
+chassis GND (earth).
+This connection could be problematic --> can be resolved by using on of the RJ45 to HDMI converter boards."
+6;Wed  29 Jun 2022 13:05:53 +0000;"Christian Irmler";"VTX Testbeam DESY June 2022 ";"General";;"2022/06/27 ";"2023/06/12";;;;;;;"TJ-Monopix Testbeam at DESY, 2022-06-27 to 2022-06-11
+
+Beam line: TB22
+
+Main organisational points summarized by Benjamin: https://docs.google.com/document/d/1JQ8emPdU42nuDCpLpTXAyDvVjVkjzOlRBPtmZAWH6QU/edit?
+usp=sharing
+
+Participants list:  https://docs.google.com/spreadsheets/d/1oHy0-eyXgqvU-pp4x8-8tB-SyGYgo-wsUHr3g0OF-zU/edit?usp=sharing
+
+Temporary run table: https://docs.google.com/spreadsheets/d/1hKaMez1xkkMAJDYz_F4OBC3qS1_NVgwz9Dsi9nZw460/edit?usp=sharing
+Will be replaced by this elog, once ready
+
+Cern box for run data: https://cernbox.cern.ch/index.php/s/trtfC1bTzROAiq5
+
+
+General setup configuration:
+AIDA TLU V2
+DURANTA Telescope"
+5;Wed  29 Jun 2022 13:05:22 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";;;"4697";"4";;;;;"Config ID: 4
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File: geoid4.geo
+
+Geometry:
+  plane     z
+===============
+  MIM26 0 = 0
+  MIM26 1 = 3.5
+  MIM26 2 = 7
+  TJMP2 3 = 9.5
+  MIM26 4 = 12.5
+  MIM26 5 = 16
+   FEI4 6 = 19.7
+  MIM26 7 = 21.9
+        
+TJ Monopix2:
+         x = 46.5
+		 y =204.0 
+	   phi = -4
+      type = Cz
+ thickness = 300um   
+
+Runs: 4697
+  "
+4;Wed  29 Jun 2022 13:04:12 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";;;"4685-4696";"3";;;;;"Config ID: 3
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File: geoid3.geo
+
+Geometry:
+  plane     z
+===============
+  MIM26 0 = 0
+  MIM26 1 = 3.5
+  MIM26 2 = 7
+  TJMP2 3 = 9.5
+  MIM26 4 = 12.5
+  MIM26 5 = 16
+   FEI4 6 = 19.7
+  MIM26 7 = 21.9
+        
+TJ Monopix2:
+         x = 56.5
+		 y =204.0 
+	   phi = -4
+      type = Cz
+ thickness = 300um   
+
+Runs: 4685-4696"
+3;Wed  29 Jun 2022 13:02:17 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";;;"4674-4684";"2";;;;;"Config ID: 2
+Beam Energy: 4
+Collimator: 5*5
+Telescope Config File: geoid2.geo
+
+Geometry:
+  plane     z
+===============
+  MIM26 0 = 0
+  MIM26 1 = 3.5
+  MIM26 2 = 7
+  TJMP2 3 = 9.5
+  MIM26 4 = 12.5
+  MIM26 5 = 16
+   FEI4 6 = 19.7
+  MIM26 7 = 21.9
+        
+TJ Monopix2:
+         x = 46.5
+		 y =204.0 
+	   phi = -4
+      type = Cz
+ thickness = 300um   
+
+Runs: 4674-4684
+  
+   "
+2;Wed  29 Jun 2022 13:00:30 +0000;"Marike Schwickardi";"Config change";"ConfigID";"other";;;"up to 4673";"1";;;;;"Config ID: 1
+Beam Energy: 4
+Collimator: large
+Telescope Config File: geoid1.geo
+
+Geometry:
+  plane     z
+===============
+  MIM26 0 = 0
+  MIM26 1 = 3.5cm
+  MIM26 2 = 7cm
+  TJMP2 3 = 11cm
+  MIM26 4 = 13.5cm
+  MIM26 5 = 17cm
+   FEI4 6 = 20.7cm
+  MIM26 7 = 22.9cm
+        
+TJ Monopix2:
+         x = unknown
+	 y = unknown
+       phi = unknown
+      type = Cz
+ thickness = 300um   
+
+Runs: up to 4673"
+1;Wed  29 Jun 2022 12:55:17 +0000;"Stefano Lacaprara";"test";"General";"other";;;;"dummy - do not use";;;;;"This was the first entry to test this elog"
