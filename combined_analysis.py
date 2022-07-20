@@ -29,7 +29,7 @@ def get_information(csv_path,run):
 
     run = str(run)
     df = pd.read_csv(csv_path,encoding = 'unicode_escape',on_bad_lines='skip',sep=';')
-    geoid = df.loc[df['Run no']==run]['ConfigID']
+    geoid = df.loc[(df['Run no']==run)&(df['Type']=='Run')]['ConfigID']
     geoid = str(int(geoid))
     text = str(df.loc[(df['ConfigID']==geoid) & (df['Type']=='ConfigID')]['Text'])
     beam_energy = str(text.split('Beam Energy:')[1][0:1])
