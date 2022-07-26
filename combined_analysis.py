@@ -20,6 +20,7 @@ def parse_args():
     add_arg('--row_start', type=str, default='0', help='start row ROI plotting')
     add_arg('--row_stop', type=str, default='512', help='stop row ROI plotting')
     add_arg('--tbsw_workspace', type=str, default='~/workspace-test/', help='path to scan_runs.sh and plot_runs.sh')
+    add_arg('--datapath', type=str, default='~/', help='datapath to txt files for tbsw')
 
 
     return parser.parse_args()
@@ -57,11 +58,11 @@ if __name__ == '__main__':
                 os.system(f'python3 analyze.py -r {str(run)} -g {params[i][0]} -n {args.n}')
     elif args.framework.lower() == 'tbsw':
         if args.run:
-            os.system(f'bash {args.tbsw_workspace}scan_runs.sh {args.run} {args.run} gear{params[0][0]}.xml {caltag}')
+            os.system(f'bash {args.tbsw_workspace}scan_runs.sh {args.run} {args.run} gear{params[0][0]}.xml {caltag} {args.datapath}')
             os.system(f'bash {args.tbsw_workspace}plot_runs.sh {args.run} {args.run} {args.col_start} {args.col_stop} {args.row_start} {args.row_stop}')
         elif args.start and args.stop:
             for i,run in enumerate(range(int(args.start), int(args.stop)+1)):
-                os.system(f'bash {args.tbsw_workspace}scan_runs.sh {str(run)} {str(run)} gear{params[i][0]}.xml {caltag}')
+                os.system(f'bash {args.tbsw_workspace}scan_runs.sh {str(run)} {str(run)} gear{params[i][0]}.xml {caltag} {args.datapath}')
                 os.system(f'bash {args.tbsw_workspace}plot_runs.sh {str(run)} {str(run)} {args.col_start} {args.col_stop} {args.row_start} {args.row_stop}')
     else:
         logging.error(f'{args.framework}??? We dont do that here. Please choose tbsw or corry.')                
