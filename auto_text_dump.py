@@ -3,12 +3,14 @@ import glob
 import os 
 
 corry_bin = '~/vtx/corryvreckan/bin/corry'
-data_folder = '../data_producer_runs/desy'
+data_folder = '../data'
 output_dir = '../corry_textwriter_dump'
 corry_config_template = 'filewriter_tbsw.conf'
 data_in_files = glob.glob(data_folder + '/*.raw')
 
-number_of_events = 50000
+print(data_in_files)
+
+number_of_events = 200000
 force_processing = False
 
 
@@ -25,10 +27,10 @@ run_nmb = None
 for file in data_in_files:
     m = re.search(r'run(\d+)', file)
     run_nmb = int(m.group(1))
-    m = re.search(f'mpx.+run0*{run_nmb}', file)
+    m = re.search(f'run000*{run_nmb}+_monopix2.', file)
     if m:
         available_runs_mpx2[run_nmb] = file
-    m = re.search(f'telescope.+run0*{run_nmb}', file)
+    m = re.search(f'run000*{run_nmb}+_adenium.', file)
     if m:
         available_runs_tel[run_nmb] = file
     
