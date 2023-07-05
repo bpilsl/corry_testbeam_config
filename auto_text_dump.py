@@ -9,8 +9,7 @@ corry_config_template = 'filewriter_tbsw.conf'
 data_in_files = glob.glob(data_folder + '/*.raw')
 
 print(data_in_files)
-
-number_of_events = 50000
+number_of_events = 200000
 force_processing = False
 
 
